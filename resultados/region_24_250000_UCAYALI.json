@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T22:17:08.453Z",
+  "timestamp": "2026-04-13T22:44:00.040Z",
   "eleccion": "presidenciales 2026",
   "nivel": "region_completa",
   "region": {
@@ -11,267 +11,267 @@
       "partido": "FUERZA POPULAR",
       "codigoPartido": "8",
       "candidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
-      "votos": 25711,
-      "porcentajeVotos": 31.284
+      "votos": 26395,
+      "porcentajeVotos": 31.191
     },
     {
       "partido": "VOTOS EN BLANCO",
       "codigoPartido": "80",
       "candidato": null,
-      "votos": 20179,
+      "votos": 20667,
       "porcentajeVotos": 0
     },
     {
       "partido": "PARTIDO PAÍS PARA TODOS",
       "codigoPartido": "23",
       "candidato": "CARLOS GONSALO ALVAREZ LOAYZA",
-      "votos": 9817,
-      "porcentajeVotos": 11.945
+      "votos": 10078,
+      "porcentajeVotos": 11.909
     },
     {
       "partido": "PARTIDO CÍVICO OBRAS",
       "codigoPartido": "14",
       "candidato": "RICARDO PABLO BELMONT CASSINELLI",
-      "votos": 6760,
-      "porcentajeVotos": 8.225
+      "votos": 6989,
+      "porcentajeVotos": 8.259
     },
     {
       "partido": "JUNTOS POR EL PERÚ",
       "codigoPartido": "10",
       "candidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
-      "votos": 6618,
-      "porcentajeVotos": 8.053
+      "votos": 6822,
+      "porcentajeVotos": 8.061
     },
     {
       "partido": "VOTOS NULOS",
       "codigoPartido": "81",
       "candidato": null,
-      "votos": 5782,
+      "votos": 5923,
       "porcentajeVotos": 0
     },
     {
       "partido": "RENOVACIÓN POPULAR",
       "codigoPartido": "35",
       "candidato": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
-      "votos": 4899,
-      "porcentajeVotos": 5.961
+      "votos": 5071,
+      "porcentajeVotos": 5.992
     },
     {
       "partido": "PARTIDO DEL BUEN GOBIERNO",
       "codigoPartido": "16",
       "candidato": "JORGE NIETO MONTESINOS",
-      "votos": 4268,
-      "porcentajeVotos": 5.193
+      "votos": 4435,
+      "porcentajeVotos": 5.241
     },
     {
       "partido": "AHORA NACIÓN - AN",
       "codigoPartido": "2",
       "candidato": "PABLO ALFONSO LOPEZ CHAU NAVA",
-      "votos": 3501,
-      "porcentajeVotos": 4.26
+      "votos": 3621,
+      "porcentajeVotos": 4.279
     },
     {
       "partido": "PODEMOS PERÚ",
       "codigoPartido": "32",
       "candidato": "JOSE LEON LUNA GALVEZ",
-      "votos": 2696,
-      "porcentajeVotos": 3.28
-    },
-    {
-      "partido": "PARTIDO SICREO",
-      "codigoPartido": "31",
-      "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
-      "votos": 2175,
-      "porcentajeVotos": 2.646
+      "votos": 2764,
+      "porcentajeVotos": 3.266
     },
     {
       "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
       "codigoPartido": "33",
       "candidato": "MARIA SOLEDAD PEREZ TELLO",
-      "votos": 2167,
-      "porcentajeVotos": 2.637
+      "votos": 2245,
+      "porcentajeVotos": 2.653
+    },
+    {
+      "partido": "PARTIDO SICREO",
+      "codigoPartido": "31",
+      "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
+      "votos": 2240,
+      "porcentajeVotos": 2.647
     },
     {
       "partido": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
       "codigoPartido": "20",
       "candidato": "GEORGE PATRICK FORSYTH SOMMER",
-      "votos": 1741,
-      "porcentajeVotos": 2.118
+      "votos": 1788,
+      "porcentajeVotos": 2.113
     },
     {
       "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
       "codigoPartido": "29",
       "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
-      "votos": 1537,
-      "porcentajeVotos": 1.87
+      "votos": 1575,
+      "porcentajeVotos": 1.861
     },
     {
       "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
       "codigoPartido": "21",
       "candidato": "LUIS FERNANDO OLIVERA VEGA",
-      "votos": 1311,
-      "porcentajeVotos": 1.595
+      "votos": 1347,
+      "porcentajeVotos": 1.592
     },
     {
       "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
       "codigoPartido": "24",
       "candidato": "HERBERT CALLER GUTIERREZ",
-      "votos": 1109,
-      "porcentajeVotos": 1.349
+      "votos": 1135,
+      "porcentajeVotos": 1.341
     },
     {
       "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
       "codigoPartido": "17",
       "candidato": "CHARLIE CARRASCO SALAZAR",
-      "votos": 1020,
-      "porcentajeVotos": 1.241
+      "votos": 1045,
+      "porcentajeVotos": 1.235
     },
     {
       "partido": "ALIANZA PARA EL PROGRESO",
       "codigoPartido": "1",
       "candidato": "CESAR ACUÑA PERALTA",
-      "votos": 811,
-      "porcentajeVotos": 0.987
+      "votos": 839,
+      "porcentajeVotos": 0.991
     },
     {
       "partido": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
       "codigoPartido": "25",
       "candidato": "YONHY LESCANO ANCIETA",
-      "votos": 701,
+      "votos": 722,
       "porcentajeVotos": 0.853
     },
     {
       "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
       "codigoPartido": "27",
       "candidato": "VLADIMIR ROY CERRON ROJAS",
-      "votos": 688,
+      "votos": 708,
       "porcentajeVotos": 0.837
     },
     {
       "partido": "PROGRESEMOS",
       "codigoPartido": "34",
       "candidato": "PAUL DAVIS JAIMES BLANCO",
-      "votos": 632,
-      "porcentajeVotos": 0.769
+      "votos": 646,
+      "porcentajeVotos": 0.763
     },
     {
       "partido": "PARTIDO APRISTA PERUANO",
       "codigoPartido": "12",
       "candidato": "PITTER ENRIQUE VALDERRAMA PEÑA",
-      "votos": 613,
-      "porcentajeVotos": 0.746
+      "votos": 635,
+      "porcentajeVotos": 0.75
     },
     {
       "partido": "ALIANZA ELECTORAL VENCEREMOS",
       "codigoPartido": "3",
       "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
-      "votos": 568,
-      "porcentajeVotos": 0.691
+      "votos": 590,
+      "porcentajeVotos": 0.697
     },
     {
       "partido": "PARTIDO DEMÓCRATA VERDE",
       "codigoPartido": "18",
       "candidato": "ALEX GONZALES CASTILLO",
-      "votos": 377,
-      "porcentajeVotos": 0.459
+      "votos": 386,
+      "porcentajeVotos": 0.456
     },
     {
       "partido": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
       "codigoPartido": "26",
       "candidato": "WOLFGANG MARIO GROZO COSTA",
-      "votos": 364,
-      "porcentajeVotos": 0.443
+      "votos": 372,
+      "porcentajeVotos": 0.44
     },
     {
       "partido": "PARTIDO MORADO",
       "codigoPartido": "22",
       "candidato": "MESIAS ANTONIO GUEVARA AMASIFUEN",
-      "votos": 324,
-      "porcentajeVotos": 0.394
+      "votos": 335,
+      "porcentajeVotos": 0.396
     },
     {
       "partido": "PARTIDO POLÍTICO PERÚ ACCIÓN",
       "codigoPartido": "28",
       "candidato": "FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA",
-      "votos": 263,
-      "porcentajeVotos": 0.32
+      "votos": 274,
+      "porcentajeVotos": 0.324
     },
     {
       "partido": "UNIDAD NACIONAL",
       "codigoPartido": "38",
       "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
-      "votos": 240,
-      "porcentajeVotos": 0.292
-    },
-    {
-      "partido": "FUERZA Y LIBERTAD",
-      "codigoPartido": "9",
-      "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
-      "votos": 183,
-      "porcentajeVotos": 0.223
-    },
-    {
-      "partido": "UN CAMINO DIFERENTE",
-      "codigoPartido": "37",
-      "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
-      "votos": 182,
-      "porcentajeVotos": 0.221
+      "votos": 249,
+      "porcentajeVotos": 0.294
     },
     {
       "partido": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
       "codigoPartido": "7",
       "candidato": "JOSE DANIEL WILLIAMS ZAPATA",
-      "votos": 182,
+      "votos": 193,
+      "porcentajeVotos": 0.228
+    },
+    {
+      "partido": "UN CAMINO DIFERENTE",
+      "codigoPartido": "37",
+      "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
+      "votos": 187,
+      "porcentajeVotos": 0.221
+    },
+    {
+      "partido": "FUERZA Y LIBERTAD",
+      "codigoPartido": "9",
+      "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
+      "votos": 187,
       "porcentajeVotos": 0.221
     },
     {
       "partido": "LIBERTAD POPULAR",
       "codigoPartido": "11",
       "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
-      "votos": 161,
-      "porcentajeVotos": 0.196
+      "votos": 167,
+      "porcentajeVotos": 0.197
     },
     {
       "partido": "FE EN EL PERÚ",
       "codigoPartido": "5",
       "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
-      "votos": 160,
-      "porcentajeVotos": 0.195
+      "votos": 163,
+      "porcentajeVotos": 0.193
     },
     {
       "partido": "SALVEMOS AL PERÚ",
       "codigoPartido": "36",
       "candidato": "ANTONIO ORTIZ VILLANO",
-      "votos": 112,
+      "votos": 115,
       "porcentajeVotos": 0.136
     },
     {
       "partido": "PARTIDO POLÍTICO PRIN",
       "codigoPartido": "30",
       "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
-      "votos": 81,
-      "porcentajeVotos": 0.099
+      "votos": 83,
+      "porcentajeVotos": 0.098
     },
     {
       "partido": "PARTIDO DEMOCRATICO FEDERAL",
       "codigoPartido": "19",
       "candidato": "ARMANDO JOAQUIN MASSE FERNANDEZ",
-      "votos": 79,
-      "porcentajeVotos": 0.096
+      "votos": 83,
+      "porcentajeVotos": 0.098
     },
     {
       "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
       "codigoPartido": "15",
       "candidato": "NAPOLEON BECERRA GARCIA",
-      "votos": 73,
-      "porcentajeVotos": 0.089
+      "votos": 79,
+      "porcentajeVotos": 0.093
     },
     {
       "partido": "PERÚ MODERNO",
       "codigoPartido": "4",
       "candidato": "CARLOS ERNESTO JAICO CARRANZA",
-      "votos": 61,
-      "porcentajeVotos": 0.074
+      "votos": 62,
+      "porcentajeVotos": 0.073
     }
   ],
   "provincias": [
@@ -1645,267 +1645,267 @@
           "partido": "FUERZA POPULAR",
           "codigoPartido": "8",
           "candidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
-          "votos": 23143,
-          "porcentajeVotos": 30.903
+          "votos": 23743,
+          "porcentajeVotos": 30.831
         },
         {
           "partido": "VOTOS EN BLANCO",
           "codigoPartido": "80",
           "candidato": null,
-          "votos": 17100,
+          "votos": 17485,
           "porcentajeVotos": 0
         },
         {
           "partido": "PARTIDO PAÍS PARA TODOS",
           "codigoPartido": "23",
           "candidato": "CARLOS GONSALO ALVAREZ LOAYZA",
-          "votos": 9442,
-          "porcentajeVotos": 12.608
+          "votos": 9692,
+          "porcentajeVotos": 12.585
         },
         {
           "partido": "PARTIDO CÍVICO OBRAS",
           "codigoPartido": "14",
           "candidato": "RICARDO PABLO BELMONT CASSINELLI",
-          "votos": 6164,
-          "porcentajeVotos": 8.231
+          "votos": 6357,
+          "porcentajeVotos": 8.255
         },
         {
           "partido": "JUNTOS POR EL PERÚ",
           "codigoPartido": "10",
           "candidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
-          "votos": 5415,
-          "porcentajeVotos": 7.231
+          "votos": 5541,
+          "porcentajeVotos": 7.195
         },
         {
           "partido": "VOTOS NULOS",
           "codigoPartido": "81",
           "candidato": null,
-          "votos": 4992,
+          "votos": 5086,
           "porcentajeVotos": 0
         },
         {
           "partido": "RENOVACIÓN POPULAR",
           "codigoPartido": "35",
           "candidato": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
-          "votos": 4577,
-          "porcentajeVotos": 6.112
+          "votos": 4739,
+          "porcentajeVotos": 6.154
         },
         {
           "partido": "PARTIDO DEL BUEN GOBIERNO",
           "codigoPartido": "16",
           "candidato": "JORGE NIETO MONTESINOS",
-          "votos": 4114,
-          "porcentajeVotos": 5.493
+          "votos": 4275,
+          "porcentajeVotos": 5.551
         },
         {
           "partido": "AHORA NACIÓN - AN",
           "codigoPartido": "2",
           "candidato": "PABLO ALFONSO LOPEZ CHAU NAVA",
-          "votos": 3104,
-          "porcentajeVotos": 4.145
+          "votos": 3213,
+          "porcentajeVotos": 4.172
         },
         {
           "partido": "PODEMOS PERÚ",
           "codigoPartido": "32",
           "candidato": "JOSE LEON LUNA GALVEZ",
-          "votos": 2458,
-          "porcentajeVotos": 3.282
+          "votos": 2510,
+          "porcentajeVotos": 3.259
         },
         {
           "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
           "codigoPartido": "33",
           "candidato": "MARIA SOLEDAD PEREZ TELLO",
-          "votos": 2097,
-          "porcentajeVotos": 2.8
+          "votos": 2172,
+          "porcentajeVotos": 2.82
         },
         {
           "partido": "PARTIDO SICREO",
           "codigoPartido": "31",
           "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
-          "votos": 2080,
-          "porcentajeVotos": 2.777
+          "votos": 2138,
+          "porcentajeVotos": 2.776
         },
         {
           "partido": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
           "codigoPartido": "20",
           "candidato": "GEORGE PATRICK FORSYTH SOMMER",
-          "votos": 1594,
-          "porcentajeVotos": 2.128
+          "votos": 1631,
+          "porcentajeVotos": 2.118
         },
         {
           "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
           "codigoPartido": "29",
           "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
-          "votos": 1488,
-          "porcentajeVotos": 1.987
+          "votos": 1523,
+          "porcentajeVotos": 1.978
         },
         {
           "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
           "codigoPartido": "21",
           "candidato": "LUIS FERNANDO OLIVERA VEGA",
-          "votos": 1228,
-          "porcentajeVotos": 1.64
+          "votos": 1261,
+          "porcentajeVotos": 1.637
         },
         {
           "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
           "codigoPartido": "24",
           "candidato": "HERBERT CALLER GUTIERREZ",
-          "votos": 1032,
-          "porcentajeVotos": 1.378
+          "votos": 1057,
+          "porcentajeVotos": 1.373
         },
         {
           "partido": "ALIANZA PARA EL PROGRESO",
           "codigoPartido": "1",
           "candidato": "CESAR ACUÑA PERALTA",
-          "votos": 744,
-          "porcentajeVotos": 0.993
+          "votos": 762,
+          "porcentajeVotos": 0.989
         },
         {
           "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
           "codigoPartido": "17",
           "candidato": "CHARLIE CARRASCO SALAZAR",
-          "votos": 699,
-          "porcentajeVotos": 0.933
+          "votos": 719,
+          "porcentajeVotos": 0.934
         },
         {
           "partido": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
           "codigoPartido": "25",
           "candidato": "YONHY LESCANO ANCIETA",
-          "votos": 665,
+          "votos": 684,
           "porcentajeVotos": 0.888
         },
         {
           "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
           "codigoPartido": "27",
           "candidato": "VLADIMIR ROY CERRON ROJAS",
-          "votos": 594,
+          "votos": 611,
           "porcentajeVotos": 0.793
         },
         {
           "partido": "PROGRESEMOS",
           "codigoPartido": "34",
           "candidato": "PAUL DAVIS JAIMES BLANCO",
-          "votos": 571,
-          "porcentajeVotos": 0.762
+          "votos": 583,
+          "porcentajeVotos": 0.757
         },
         {
           "partido": "PARTIDO APRISTA PERUANO",
           "codigoPartido": "12",
           "candidato": "PITTER ENRIQUE VALDERRAMA PEÑA",
-          "votos": 549,
-          "porcentajeVotos": 0.733
+          "votos": 571,
+          "porcentajeVotos": 0.741
         },
         {
           "partido": "ALIANZA ELECTORAL VENCEREMOS",
           "codigoPartido": "3",
           "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
-          "votos": 509,
-          "porcentajeVotos": 0.68
+          "votos": 528,
+          "porcentajeVotos": 0.686
         },
         {
           "partido": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
           "codigoPartido": "26",
           "candidato": "WOLFGANG MARIO GROZO COSTA",
-          "votos": 355,
-          "porcentajeVotos": 0.474
+          "votos": 363,
+          "porcentajeVotos": 0.471
         },
         {
           "partido": "PARTIDO DEMÓCRATA VERDE",
           "codigoPartido": "18",
           "candidato": "ALEX GONZALES CASTILLO",
-          "votos": 335,
-          "porcentajeVotos": 0.447
+          "votos": 342,
+          "porcentajeVotos": 0.444
         },
         {
           "partido": "PARTIDO MORADO",
           "codigoPartido": "22",
           "candidato": "MESIAS ANTONIO GUEVARA AMASIFUEN",
-          "votos": 311,
-          "porcentajeVotos": 0.415
+          "votos": 322,
+          "porcentajeVotos": 0.418
         },
         {
           "partido": "PARTIDO POLÍTICO PERÚ ACCIÓN",
           "codigoPartido": "28",
           "candidato": "FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA",
-          "votos": 242,
-          "porcentajeVotos": 0.323
+          "votos": 253,
+          "porcentajeVotos": 0.329
         },
         {
           "partido": "UNIDAD NACIONAL",
           "codigoPartido": "38",
           "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
-          "votos": 223,
-          "porcentajeVotos": 0.298
+          "votos": 230,
+          "porcentajeVotos": 0.299
         },
         {
           "partido": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
           "codigoPartido": "7",
           "candidato": "JOSE DANIEL WILLIAMS ZAPATA",
-          "votos": 174,
-          "porcentajeVotos": 0.232
-        },
-        {
-          "partido": "FUERZA Y LIBERTAD",
-          "codigoPartido": "9",
-          "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
-          "votos": 170,
-          "porcentajeVotos": 0.227
+          "votos": 185,
+          "porcentajeVotos": 0.24
         },
         {
           "partido": "UN CAMINO DIFERENTE",
           "codigoPartido": "37",
           "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
-          "votos": 168,
-          "porcentajeVotos": 0.224
+          "votos": 172,
+          "porcentajeVotos": 0.223
+        },
+        {
+          "partido": "FUERZA Y LIBERTAD",
+          "codigoPartido": "9",
+          "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
+          "votos": 172,
+          "porcentajeVotos": 0.223
         },
         {
           "partido": "LIBERTAD POPULAR",
           "codigoPartido": "11",
           "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
-          "votos": 152,
+          "votos": 156,
           "porcentajeVotos": 0.203
         },
         {
           "partido": "FE EN EL PERÚ",
           "codigoPartido": "5",
           "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
-          "votos": 130,
-          "porcentajeVotos": 0.174
+          "votos": 132,
+          "porcentajeVotos": 0.171
         },
         {
           "partido": "SALVEMOS AL PERÚ",
           "codigoPartido": "36",
           "candidato": "ANTONIO ORTIZ VILLANO",
           "votos": 90,
-          "porcentajeVotos": 0.12
-        },
-        {
-          "partido": "PARTIDO POLÍTICO PRIN",
-          "codigoPartido": "30",
-          "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
-          "votos": 72,
-          "porcentajeVotos": 0.096
+          "porcentajeVotos": 0.117
         },
         {
           "partido": "PARTIDO DEMOCRATICO FEDERAL",
           "codigoPartido": "19",
           "candidato": "ARMANDO JOAQUIN MASSE FERNANDEZ",
-          "votos": 72,
-          "porcentajeVotos": 0.096
+          "votos": 76,
+          "porcentajeVotos": 0.099
         },
         {
           "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
           "codigoPartido": "15",
           "candidato": "NAPOLEON BECERRA GARCIA",
-          "votos": 70,
-          "porcentajeVotos": 0.093
+          "votos": 75,
+          "porcentajeVotos": 0.097
+        },
+        {
+          "partido": "PARTIDO POLÍTICO PRIN",
+          "codigoPartido": "30",
+          "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
+          "votos": 73,
+          "porcentajeVotos": 0.095
         },
         {
           "partido": "PERÚ MODERNO",
           "codigoPartido": "4",
           "candidato": "CARLOS ERNESTO JAICO CARRANZA",
-          "votos": 59,
-          "porcentajeVotos": 0.079
+          "votos": 60,
+          "porcentajeVotos": 0.078
         }
       ],
       "distritos": [
@@ -1917,266 +1917,266 @@
               "partido": "FUERZA POPULAR",
               "codigoPartido": "8",
               "candidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
-              "votos": 10708,
-              "porcentajeVotos": 29.028
+              "votos": 11267,
+              "porcentajeVotos": 29.004
             },
             {
               "partido": "VOTOS EN BLANCO",
               "codigoPartido": "80",
               "candidato": null,
-              "votos": 7316,
+              "votos": 7668,
               "porcentajeVotos": 0
             },
             {
               "partido": "PARTIDO PAÍS PARA TODOS",
               "codigoPartido": "23",
               "candidato": "CARLOS GONSALO ALVAREZ LOAYZA",
-              "votos": 4859,
-              "porcentajeVotos": 13.172
+              "votos": 5082,
+              "porcentajeVotos": 13.082
             },
             {
               "partido": "PARTIDO CÍVICO OBRAS",
               "codigoPartido": "14",
               "candidato": "RICARDO PABLO BELMONT CASSINELLI",
-              "votos": 2912,
-              "porcentajeVotos": 7.894
+              "votos": 3090,
+              "porcentajeVotos": 7.954
             },
             {
               "partido": "RENOVACIÓN POPULAR",
               "codigoPartido": "35",
               "candidato": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
-              "votos": 2846,
-              "porcentajeVotos": 7.715
+              "votos": 3002,
+              "porcentajeVotos": 7.728
             },
             {
               "partido": "PARTIDO DEL BUEN GOBIERNO",
               "codigoPartido": "16",
               "candidato": "JORGE NIETO MONTESINOS",
-              "votos": 2344,
-              "porcentajeVotos": 6.354
-            },
-            {
-              "partido": "VOTOS NULOS",
-              "codigoPartido": "81",
-              "candidato": null,
-              "votos": 2087,
-              "porcentajeVotos": 0
+              "votos": 2494,
+              "porcentajeVotos": 6.42
             },
             {
               "partido": "JUNTOS POR EL PERÚ",
               "codigoPartido": "10",
               "candidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
-              "votos": 2081,
-              "porcentajeVotos": 5.641
+              "votos": 2192,
+              "porcentajeVotos": 5.643
+            },
+            {
+              "partido": "VOTOS NULOS",
+              "codigoPartido": "81",
+              "candidato": null,
+              "votos": 2174,
+              "porcentajeVotos": 0
             },
             {
               "partido": "AHORA NACIÓN - AN",
               "codigoPartido": "2",
               "candidato": "PABLO ALFONSO LOPEZ CHAU NAVA",
-              "votos": 1780,
-              "porcentajeVotos": 4.825
+              "votos": 1885,
+              "porcentajeVotos": 4.852
             },
             {
               "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
               "codigoPartido": "33",
               "candidato": "MARIA SOLEDAD PEREZ TELLO",
-              "votos": 1222,
-              "porcentajeVotos": 3.313
+              "votos": 1290,
+              "porcentajeVotos": 3.321
             },
             {
               "partido": "PARTIDO SICREO",
               "codigoPartido": "31",
               "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
-              "votos": 1095,
-              "porcentajeVotos": 2.968
+              "votos": 1148,
+              "porcentajeVotos": 2.955
             },
             {
               "partido": "PODEMOS PERÚ",
               "codigoPartido": "32",
               "candidato": "JOSE LEON LUNA GALVEZ",
-              "votos": 1071,
-              "porcentajeVotos": 2.903
+              "votos": 1116,
+              "porcentajeVotos": 2.873
             },
             {
               "partido": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
               "codigoPartido": "20",
               "candidato": "GEORGE PATRICK FORSYTH SOMMER",
-              "votos": 865,
-              "porcentajeVotos": 2.345
+              "votos": 900,
+              "porcentajeVotos": 2.317
             },
             {
               "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
               "codigoPartido": "21",
               "candidato": "LUIS FERNANDO OLIVERA VEGA",
-              "votos": 612,
-              "porcentajeVotos": 1.659
+              "votos": 638,
+              "porcentajeVotos": 1.642
             },
             {
               "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
               "codigoPartido": "29",
               "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
-              "votos": 586,
-              "porcentajeVotos": 1.589
+              "votos": 619,
+              "porcentajeVotos": 1.593
             },
             {
               "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
               "codigoPartido": "24",
               "candidato": "HERBERT CALLER GUTIERREZ",
-              "votos": 524,
-              "porcentajeVotos": 1.421
+              "votos": 547,
+              "porcentajeVotos": 1.408
             },
             {
               "partido": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
               "codigoPartido": "25",
               "candidato": "YONHY LESCANO ANCIETA",
-              "votos": 347,
-              "porcentajeVotos": 0.941
+              "votos": 365,
+              "porcentajeVotos": 0.94
             },
             {
               "partido": "PARTIDO APRISTA PERUANO",
               "codigoPartido": "12",
               "candidato": "PITTER ENRIQUE VALDERRAMA PEÑA",
-              "votos": 330,
-              "porcentajeVotos": 0.895
+              "votos": 350,
+              "porcentajeVotos": 0.901
             },
             {
               "partido": "ALIANZA PARA EL PROGRESO",
               "codigoPartido": "1",
               "candidato": "CESAR ACUÑA PERALTA",
-              "votos": 317,
-              "porcentajeVotos": 0.859
+              "votos": 334,
+              "porcentajeVotos": 0.86
             },
             {
               "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
               "codigoPartido": "17",
               "candidato": "CHARLIE CARRASCO SALAZAR",
-              "votos": 275,
-              "porcentajeVotos": 0.745
+              "votos": 294,
+              "porcentajeVotos": 0.757
             },
             {
               "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
               "codigoPartido": "27",
               "candidato": "VLADIMIR ROY CERRON ROJAS",
-              "votos": 268,
-              "porcentajeVotos": 0.727
+              "votos": 285,
+              "porcentajeVotos": 0.734
             },
             {
               "partido": "PROGRESEMOS",
               "codigoPartido": "34",
               "candidato": "PAUL DAVIS JAIMES BLANCO",
-              "votos": 267,
-              "porcentajeVotos": 0.724
+              "votos": 278,
+              "porcentajeVotos": 0.716
             },
             {
               "partido": "ALIANZA ELECTORAL VENCEREMOS",
               "codigoPartido": "3",
               "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
-              "votos": 259,
-              "porcentajeVotos": 0.702
+              "votos": 277,
+              "porcentajeVotos": 0.713
             },
             {
               "partido": "PARTIDO MORADO",
               "codigoPartido": "22",
               "candidato": "MESIAS ANTONIO GUEVARA AMASIFUEN",
-              "votos": 171,
-              "porcentajeVotos": 0.464
+              "votos": 182,
+              "porcentajeVotos": 0.469
             },
             {
               "partido": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
               "codigoPartido": "26",
               "candidato": "WOLFGANG MARIO GROZO COSTA",
-              "votos": 155,
-              "porcentajeVotos": 0.42
+              "votos": 162,
+              "porcentajeVotos": 0.417
             },
             {
               "partido": "PARTIDO DEMÓCRATA VERDE",
               "codigoPartido": "18",
               "candidato": "ALEX GONZALES CASTILLO",
-              "votos": 148,
-              "porcentajeVotos": 0.401
+              "votos": 155,
+              "porcentajeVotos": 0.399
             },
             {
               "partido": "PARTIDO POLÍTICO PERÚ ACCIÓN",
               "codigoPartido": "28",
               "candidato": "FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA",
-              "votos": 134,
-              "porcentajeVotos": 0.363
+              "votos": 143,
+              "porcentajeVotos": 0.368
             },
             {
               "partido": "UNIDAD NACIONAL",
               "codigoPartido": "38",
               "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
-              "votos": 128,
-              "porcentajeVotos": 0.347
-            },
-            {
-              "partido": "FUERZA Y LIBERTAD",
-              "codigoPartido": "9",
-              "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
-              "votos": 93,
-              "porcentajeVotos": 0.252
+              "votos": 135,
+              "porcentajeVotos": 0.348
             },
             {
               "partido": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
               "codigoPartido": "7",
               "candidato": "JOSE DANIEL WILLIAMS ZAPATA",
-              "votos": 85,
-              "porcentajeVotos": 0.23
+              "votos": 95,
+              "porcentajeVotos": 0.245
+            },
+            {
+              "partido": "FUERZA Y LIBERTAD",
+              "codigoPartido": "9",
+              "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
+              "votos": 95,
+              "porcentajeVotos": 0.245
             },
             {
               "partido": "UN CAMINO DIFERENTE",
               "codigoPartido": "37",
               "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
-              "votos": 78,
+              "votos": 82,
               "porcentajeVotos": 0.211
             },
             {
               "partido": "LIBERTAD POPULAR",
               "codigoPartido": "11",
               "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
-              "votos": 77,
+              "votos": 81,
               "porcentajeVotos": 0.209
             },
             {
               "partido": "FE EN EL PERÚ",
               "codigoPartido": "5",
               "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
-              "votos": 71,
-              "porcentajeVotos": 0.192
+              "votos": 73,
+              "porcentajeVotos": 0.188
             },
             {
               "partido": "SALVEMOS AL PERÚ",
               "codigoPartido": "36",
               "candidato": "ANTONIO ORTIZ VILLANO",
               "votos": 46,
-              "porcentajeVotos": 0.125
+              "porcentajeVotos": 0.118
             },
             {
               "partido": "PARTIDO POLÍTICO PRIN",
               "codigoPartido": "30",
               "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
-              "votos": 41,
-              "porcentajeVotos": 0.111
+              "votos": 42,
+              "porcentajeVotos": 0.108
             },
             {
               "partido": "PARTIDO DEMOCRATICO FEDERAL",
               "codigoPartido": "19",
               "candidato": "ARMANDO JOAQUIN MASSE FERNANDEZ",
-              "votos": 36,
-              "porcentajeVotos": 0.098
+              "votos": 40,
+              "porcentajeVotos": 0.103
             },
             {
               "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
               "codigoPartido": "15",
               "candidato": "NAPOLEON BECERRA GARCIA",
-              "votos": 34,
-              "porcentajeVotos": 0.092
+              "votos": 38,
+              "porcentajeVotos": 0.098
             },
             {
               "partido": "PERÚ MODERNO",
               "codigoPartido": "4",
               "candidato": "CARLOS ERNESTO JAICO CARRANZA",
-              "votos": 23,
+              "votos": 24,
               "porcentajeVotos": 0.062
             }
           ]
@@ -3549,168 +3549,168 @@
               "partido": "FUERZA POPULAR",
               "codigoPartido": "8",
               "candidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
-              "votos": 5419,
-              "porcentajeVotos": 31.101
+              "votos": 5460,
+              "porcentajeVotos": 31.046
             },
             {
               "partido": "VOTOS EN BLANCO",
               "codigoPartido": "80",
               "candidato": null,
-              "votos": 4034,
+              "votos": 4067,
               "porcentajeVotos": 0
             },
             {
               "partido": "PARTIDO PAÍS PARA TODOS",
               "codigoPartido": "23",
               "candidato": "CARLOS GONSALO ALVAREZ LOAYZA",
-              "votos": 2062,
-              "porcentajeVotos": 11.834
+              "votos": 2089,
+              "porcentajeVotos": 11.878
             },
             {
               "partido": "PARTIDO CÍVICO OBRAS",
               "codigoPartido": "14",
               "candidato": "RICARDO PABLO BELMONT CASSINELLI",
-              "votos": 1470,
-              "porcentajeVotos": 8.437
+              "votos": 1485,
+              "porcentajeVotos": 8.444
             },
             {
               "partido": "JUNTOS POR EL PERÚ",
               "codigoPartido": "10",
               "candidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
-              "votos": 1347,
-              "porcentajeVotos": 7.731
+              "votos": 1362,
+              "porcentajeVotos": 7.744
             },
             {
               "partido": "VOTOS NULOS",
               "codigoPartido": "81",
               "candidato": null,
-              "votos": 1173,
+              "votos": 1180,
               "porcentajeVotos": 0
             },
             {
               "partido": "RENOVACIÓN POPULAR",
               "codigoPartido": "35",
               "candidato": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
-              "votos": 1032,
-              "porcentajeVotos": 5.923
+              "votos": 1038,
+              "porcentajeVotos": 5.902
             },
             {
               "partido": "PARTIDO DEL BUEN GOBIERNO",
               "codigoPartido": "16",
               "candidato": "JORGE NIETO MONTESINOS",
-              "votos": 972,
-              "porcentajeVotos": 5.579
+              "votos": 983,
+              "porcentajeVotos": 5.589
             },
             {
               "partido": "AHORA NACIÓN - AN",
               "codigoPartido": "2",
               "candidato": "PABLO ALFONSO LOPEZ CHAU NAVA",
-              "votos": 707,
-              "porcentajeVotos": 4.058
+              "votos": 711,
+              "porcentajeVotos": 4.043
             },
             {
               "partido": "PODEMOS PERÚ",
               "codigoPartido": "32",
               "candidato": "JOSE LEON LUNA GALVEZ",
-              "votos": 596,
-              "porcentajeVotos": 3.421
+              "votos": 603,
+              "porcentajeVotos": 3.429
             },
             {
               "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
               "codigoPartido": "33",
               "candidato": "MARIA SOLEDAD PEREZ TELLO",
-              "votos": 483,
-              "porcentajeVotos": 2.772
+              "votos": 490,
+              "porcentajeVotos": 2.786
             },
             {
               "partido": "PARTIDO SICREO",
               "codigoPartido": "31",
               "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
-              "votos": 466,
-              "porcentajeVotos": 2.674
+              "votos": 471,
+              "porcentajeVotos": 2.678
             },
             {
               "partido": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
               "codigoPartido": "20",
               "candidato": "GEORGE PATRICK FORSYTH SOMMER",
-              "votos": 354,
-              "porcentajeVotos": 2.032
+              "votos": 356,
+              "porcentajeVotos": 2.024
             },
             {
               "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
               "codigoPartido": "29",
               "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
-              "votos": 326,
-              "porcentajeVotos": 1.871
+              "votos": 328,
+              "porcentajeVotos": 1.865
             },
             {
               "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
               "codigoPartido": "21",
               "candidato": "LUIS FERNANDO OLIVERA VEGA",
-              "votos": 295,
-              "porcentajeVotos": 1.693
+              "votos": 302,
+              "porcentajeVotos": 1.717
             },
             {
               "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
               "codigoPartido": "24",
               "candidato": "HERBERT CALLER GUTIERREZ",
-              "votos": 234,
-              "porcentajeVotos": 1.343
+              "votos": 236,
+              "porcentajeVotos": 1.342
             },
             {
               "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
               "codigoPartido": "17",
               "candidato": "CHARLIE CARRASCO SALAZAR",
-              "votos": 207,
-              "porcentajeVotos": 1.188
+              "votos": 208,
+              "porcentajeVotos": 1.183
             },
             {
               "partido": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
               "codigoPartido": "25",
               "candidato": "YONHY LESCANO ANCIETA",
-              "votos": 169,
-              "porcentajeVotos": 0.97
+              "votos": 170,
+              "porcentajeVotos": 0.967
             },
             {
               "partido": "ALIANZA PARA EL PROGRESO",
               "codigoPartido": "1",
               "candidato": "CESAR ACUÑA PERALTA",
-              "votos": 153,
-              "porcentajeVotos": 0.878
+              "votos": 154,
+              "porcentajeVotos": 0.876
             },
             {
               "partido": "PROGRESEMOS",
               "codigoPartido": "34",
               "candidato": "PAUL DAVIS JAIMES BLANCO",
-              "votos": 135,
-              "porcentajeVotos": 0.775
+              "votos": 136,
+              "porcentajeVotos": 0.773
             },
             {
               "partido": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
               "codigoPartido": "26",
               "candidato": "WOLFGANG MARIO GROZO COSTA",
-              "votos": 126,
-              "porcentajeVotos": 0.723
+              "votos": 127,
+              "porcentajeVotos": 0.722
             },
             {
               "partido": "PARTIDO APRISTA PERUANO",
               "codigoPartido": "12",
               "candidato": "PITTER ENRIQUE VALDERRAMA PEÑA",
-              "votos": 124,
-              "porcentajeVotos": 0.712
+              "votos": 126,
+              "porcentajeVotos": 0.716
             },
             {
               "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
               "codigoPartido": "27",
               "candidato": "VLADIMIR ROY CERRON ROJAS",
               "votos": 121,
-              "porcentajeVotos": 0.694
+              "porcentajeVotos": 0.688
             },
             {
               "partido": "ALIANZA ELECTORAL VENCEREMOS",
               "codigoPartido": "3",
               "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
-              "votos": 108,
+              "votos": 109,
               "porcentajeVotos": 0.62
             },
             {
@@ -3718,84 +3718,84 @@
               "codigoPartido": "18",
               "candidato": "ALEX GONZALES CASTILLO",
               "votos": 76,
-              "porcentajeVotos": 0.436
+              "porcentajeVotos": 0.432
             },
             {
               "partido": "PARTIDO POLÍTICO PERÚ ACCIÓN",
               "codigoPartido": "28",
               "candidato": "FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA",
-              "votos": 59,
-              "porcentajeVotos": 0.339
+              "votos": 61,
+              "porcentajeVotos": 0.347
             },
             {
               "partido": "PARTIDO MORADO",
               "codigoPartido": "22",
               "candidato": "MESIAS ANTONIO GUEVARA AMASIFUEN",
               "votos": 57,
-              "porcentajeVotos": 0.327
+              "porcentajeVotos": 0.324
+            },
+            {
+              "partido": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
+              "codigoPartido": "7",
+              "candidato": "JOSE DANIEL WILLIAMS ZAPATA",
+              "votos": 49,
+              "porcentajeVotos": 0.279
             },
             {
               "partido": "UN CAMINO DIFERENTE",
               "codigoPartido": "37",
               "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
               "votos": 48,
-              "porcentajeVotos": 0.275
-            },
-            {
-              "partido": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
-              "codigoPartido": "7",
-              "candidato": "JOSE DANIEL WILLIAMS ZAPATA",
-              "votos": 48,
-              "porcentajeVotos": 0.275
+              "porcentajeVotos": 0.273
             },
             {
               "partido": "UNIDAD NACIONAL",
               "codigoPartido": "38",
               "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
               "votos": 48,
-              "porcentajeVotos": 0.275
+              "porcentajeVotos": 0.273
             },
             {
               "partido": "FUERZA Y LIBERTAD",
               "codigoPartido": "9",
               "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
               "votos": 40,
-              "porcentajeVotos": 0.23
+              "porcentajeVotos": 0.227
             },
             {
               "partido": "LIBERTAD POPULAR",
               "codigoPartido": "11",
               "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
               "votos": 37,
-              "porcentajeVotos": 0.212
+              "porcentajeVotos": 0.21
             },
             {
               "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
               "codigoPartido": "15",
               "candidato": "NAPOLEON BECERRA GARCIA",
-              "votos": 27,
-              "porcentajeVotos": 0.155
+              "votos": 28,
+              "porcentajeVotos": 0.159
             },
             {
               "partido": "FE EN EL PERÚ",
               "codigoPartido": "5",
               "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
               "votos": 19,
-              "porcentajeVotos": 0.109
+              "porcentajeVotos": 0.108
             },
             {
               "partido": "PERÚ MODERNO",
               "codigoPartido": "4",
               "candidato": "CARLOS ERNESTO JAICO CARRANZA",
               "votos": 19,
-              "porcentajeVotos": 0.109
+              "porcentajeVotos": 0.108
             },
             {
               "partido": "SALVEMOS AL PERÚ",
               "codigoPartido": "36",
               "candidato": "ANTONIO ORTIZ VILLANO",
               "votos": 16,
-              "porcentajeVotos": 0.092
+              "porcentajeVotos": 0.091
             },
             {
               "partido": "PARTIDO POLÍTICO PRIN",
@@ -3823,246 +3823,253 @@
           "partido": "VOTOS EN BLANCO",
           "codigoPartido": "80",
           "candidato": null,
-          "votos": 252,
+          "votos": 355,
           "porcentajeVotos": 0
         },
         {
           "partido": "FUERZA POPULAR",
           "codigoPartido": "8",
           "candidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
-          "votos": 222,
-          "porcentajeVotos": 27.239
+          "votos": 306,
+          "porcentajeVotos": 26.984
         },
         {
           "partido": "JUNTOS POR EL PERÚ",
           "codigoPartido": "10",
           "candidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
-          "votos": 190,
-          "porcentajeVotos": 23.313
+          "votos": 268,
+          "porcentajeVotos": 23.633
         },
         {
           "partido": "PARTIDO CÍVICO OBRAS",
           "codigoPartido": "14",
           "candidato": "RICARDO PABLO BELMONT CASSINELLI",
-          "votos": 100,
-          "porcentajeVotos": 12.27
+          "votos": 136,
+          "porcentajeVotos": 11.993
         },
         {
           "partido": "VOTOS NULOS",
           "codigoPartido": "81",
           "candidato": null,
-          "votos": 73,
+          "votos": 120,
           "porcentajeVotos": 0
         },
         {
           "partido": "PARTIDO PAÍS PARA TODOS",
           "codigoPartido": "23",
           "candidato": "CARLOS GONSALO ALVAREZ LOAYZA",
-          "votos": 53,
-          "porcentajeVotos": 6.503
+          "votos": 64,
+          "porcentajeVotos": 5.644
         },
         {
           "partido": "PODEMOS PERÚ",
           "codigoPartido": "32",
           "candidato": "JOSE LEON LUNA GALVEZ",
-          "votos": 42,
-          "porcentajeVotos": 5.153
+          "votos": 58,
+          "porcentajeVotos": 5.115
         },
         {
           "partido": "RENOVACIÓN POPULAR",
           "codigoPartido": "35",
           "candidato": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
-          "votos": 27,
-          "porcentajeVotos": 3.313
+          "votos": 37,
+          "porcentajeVotos": 3.263
         },
         {
           "partido": "AHORA NACIÓN - AN",
           "codigoPartido": "2",
           "candidato": "PABLO ALFONSO LOPEZ CHAU NAVA",
-          "votos": 22,
-          "porcentajeVotos": 2.699
+          "votos": 33,
+          "porcentajeVotos": 2.91
         },
         {
           "partido": "ALIANZA PARA EL PROGRESO",
           "codigoPartido": "1",
           "candidato": "CESAR ACUÑA PERALTA",
-          "votos": 16,
-          "porcentajeVotos": 1.963
+          "votos": 26,
+          "porcentajeVotos": 2.293
         },
         {
           "partido": "PARTIDO DEL BUEN GOBIERNO",
           "codigoPartido": "16",
           "candidato": "JORGE NIETO MONTESINOS",
-          "votos": 15,
-          "porcentajeVotos": 1.84
-        },
-        {
-          "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
-          "codigoPartido": "27",
-          "candidato": "VLADIMIR ROY CERRON ROJAS",
-          "votos": 12,
-          "porcentajeVotos": 1.472
-        },
-        {
-          "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
-          "codigoPartido": "33",
-          "candidato": "MARIA SOLEDAD PEREZ TELLO",
-          "votos": 12,
-          "porcentajeVotos": 1.472
-        },
-        {
-          "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
-          "codigoPartido": "17",
-          "candidato": "CHARLIE CARRASCO SALAZAR",
-          "votos": 12,
-          "porcentajeVotos": 1.472
-        },
-        {
-          "partido": "ALIANZA ELECTORAL VENCEREMOS",
-          "codigoPartido": "3",
-          "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
-          "votos": 11,
-          "porcentajeVotos": 1.35
-        },
-        {
-          "partido": "PARTIDO SICREO",
-          "codigoPartido": "31",
-          "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
-          "votos": 11,
-          "porcentajeVotos": 1.35
+          "votos": 21,
+          "porcentajeVotos": 1.852
         },
         {
           "partido": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
           "codigoPartido": "20",
           "candidato": "GEORGE PATRICK FORSYTH SOMMER",
-          "votos": 9,
-          "porcentajeVotos": 1.104
+          "votos": 19,
+          "porcentajeVotos": 1.675
         },
         {
-          "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
-          "codigoPartido": "24",
-          "candidato": "HERBERT CALLER GUTIERREZ",
-          "votos": 8,
-          "porcentajeVotos": 0.982
+          "partido": "PARTIDO SICREO",
+          "codigoPartido": "31",
+          "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
+          "votos": 18,
+          "porcentajeVotos": 1.587
+        },
+        {
+          "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
+          "codigoPartido": "17",
+          "candidato": "CHARLIE CARRASCO SALAZAR",
+          "votos": 17,
+          "porcentajeVotos": 1.499
+        },
+        {
+          "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
+          "codigoPartido": "27",
+          "candidato": "VLADIMIR ROY CERRON ROJAS",
+          "votos": 15,
+          "porcentajeVotos": 1.323
+        },
+        {
+          "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
+          "codigoPartido": "33",
+          "candidato": "MARIA SOLEDAD PEREZ TELLO",
+          "votos": 15,
+          "porcentajeVotos": 1.323
+        },
+        {
+          "partido": "ALIANZA ELECTORAL VENCEREMOS",
+          "codigoPartido": "3",
+          "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
+          "votos": 14,
+          "porcentajeVotos": 1.235
         },
         {
           "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
           "codigoPartido": "21",
           "candidato": "LUIS FERNANDO OLIVERA VEGA",
+          "votos": 11,
+          "porcentajeVotos": 0.97
+        },
+        {
+          "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
+          "codigoPartido": "24",
+          "candidato": "HERBERT CALLER GUTIERREZ",
+          "votos": 9,
+          "porcentajeVotos": 0.794
+        },
+        {
+          "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
+          "codigoPartido": "29",
+          "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
           "votos": 8,
-          "porcentajeVotos": 0.982
+          "porcentajeVotos": 0.705
+        },
+        {
+          "partido": "PARTIDO DEMÓCRATA VERDE",
+          "codigoPartido": "18",
+          "candidato": "ALEX GONZALES CASTILLO",
+          "votos": 7,
+          "porcentajeVotos": 0.617
         },
         {
           "partido": "PARTIDO POLÍTICO PERÚ ACCIÓN",
           "codigoPartido": "28",
           "candidato": "FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA",
           "votos": 6,
-          "porcentajeVotos": 0.736
-        },
-        {
-          "partido": "PARTIDO DEMÓCRATA VERDE",
-          "codigoPartido": "18",
-          "candidato": "ALEX GONZALES CASTILLO",
-          "votos": 5,
-          "porcentajeVotos": 0.613
-        },
-        {
-          "partido": "UN CAMINO DIFERENTE",
-          "codigoPartido": "37",
-          "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
-          "votos": 5,
-          "porcentajeVotos": 0.613
-        },
-        {
-          "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
-          "codigoPartido": "29",
-          "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
-          "votos": 5,
-          "porcentajeVotos": 0.613
+          "porcentajeVotos": 0.529
         },
         {
           "partido": "PROGRESEMOS",
           "codigoPartido": "34",
           "candidato": "PAUL DAVIS JAIMES BLANCO",
-          "votos": 4,
-          "porcentajeVotos": 0.491
+          "votos": 6,
+          "porcentajeVotos": 0.529
         },
         {
           "partido": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
           "codigoPartido": "25",
           "candidato": "YONHY LESCANO ANCIETA",
-          "votos": 4,
-          "porcentajeVotos": 0.491
+          "votos": 6,
+          "porcentajeVotos": 0.529
+        },
+        {
+          "partido": "UN CAMINO DIFERENTE",
+          "codigoPartido": "37",
+          "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
+          "votos": 6,
+          "porcentajeVotos": 0.529
+        },
+        {
+          "partido": "FUERZA Y LIBERTAD",
+          "codigoPartido": "9",
+          "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
+          "votos": 5,
+          "porcentajeVotos": 0.441
+        },
+        {
+          "partido": "FE EN EL PERÚ",
+          "codigoPartido": "5",
+          "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
+          "votos": 3,
+          "porcentajeVotos": 0.265
+        },
+        {
+          "partido": "LIBERTAD POPULAR",
+          "codigoPartido": "11",
+          "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
+          "votos": 3,
+          "porcentajeVotos": 0.265
+        },
+        {
+          "partido": "SALVEMOS AL PERÚ",
+          "codigoPartido": "36",
+          "candidato": "ANTONIO ORTIZ VILLANO",
+          "votos": 3,
+          "porcentajeVotos": 0.265
         },
         {
           "partido": "PARTIDO APRISTA PERUANO",
           "codigoPartido": "12",
           "candidato": "PITTER ENRIQUE VALDERRAMA PEÑA",
           "votos": 3,
-          "porcentajeVotos": 0.368
+          "porcentajeVotos": 0.265
         },
         {
-          "partido": "FUERZA Y LIBERTAD",
-          "codigoPartido": "9",
-          "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
+          "partido": "UNIDAD NACIONAL",
+          "codigoPartido": "38",
+          "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
           "votos": 3,
-          "porcentajeVotos": 0.368
+          "porcentajeVotos": 0.265
         },
         {
           "partido": "PARTIDO MORADO",
           "codigoPartido": "22",
           "candidato": "MESIAS ANTONIO GUEVARA AMASIFUEN",
           "votos": 3,
-          "porcentajeVotos": 0.368
+          "porcentajeVotos": 0.265
         },
         {
-          "partido": "FE EN EL PERÚ",
-          "codigoPartido": "5",
-          "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
+          "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
+          "codigoPartido": "15",
+          "candidato": "NAPOLEON BECERRA GARCIA",
           "votos": 2,
-          "porcentajeVotos": 0.245
+          "porcentajeVotos": 0.176
+        },
+        {
+          "partido": "PARTIDO POLÍTICO PRIN",
+          "codigoPartido": "30",
+          "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
+          "votos": 1,
+          "porcentajeVotos": 0.088
         },
         {
           "partido": "PARTIDO DEMOCRATICO FEDERAL",
           "codigoPartido": "19",
           "candidato": "ARMANDO JOAQUIN MASSE FERNANDEZ",
           "votos": 1,
-          "porcentajeVotos": 0.123
-        },
-        {
-          "partido": "LIBERTAD POPULAR",
-          "codigoPartido": "11",
-          "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
-          "votos": 1,
-          "porcentajeVotos": 0.123
+          "porcentajeVotos": 0.088
         },
         {
           "partido": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
           "codigoPartido": "7",
           "candidato": "JOSE DANIEL WILLIAMS ZAPATA",
           "votos": 1,
-          "porcentajeVotos": 0.123
-        },
-        {
-          "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
-          "codigoPartido": "15",
-          "candidato": "NAPOLEON BECERRA GARCIA",
-          "votos": 1,
-          "porcentajeVotos": 0.123
-        },
-        {
-          "partido": "UNIDAD NACIONAL",
-          "codigoPartido": "38",
-          "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
-          "votos": 1,
-          "porcentajeVotos": 0.123
-        },
-        {
-          "partido": "PARTIDO POLÍTICO PRIN",
-          "codigoPartido": "30",
-          "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
-          "votos": 0,
-          "porcentajeVotos": 0
+          "porcentajeVotos": 0.088
         },
         {
           "partido": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
@@ -4075,13 +4082,6 @@
           "partido": "PERÚ MODERNO",
           "codigoPartido": "4",
           "candidato": "CARLOS ERNESTO JAICO CARRANZA",
-          "votos": 0,
-          "porcentajeVotos": 0
-        },
-        {
-          "partido": "SALVEMOS AL PERÚ",
-          "codigoPartido": "36",
-          "candidato": "ANTONIO ORTIZ VILLANO",
           "votos": 0,
           "porcentajeVotos": 0
         }
@@ -5455,246 +5455,253 @@
               "partido": "VOTOS EN BLANCO",
               "codigoPartido": "80",
               "candidato": null,
-              "votos": 252,
+              "votos": 355,
               "porcentajeVotos": 0
             },
             {
               "partido": "FUERZA POPULAR",
               "codigoPartido": "8",
               "candidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
-              "votos": 222,
-              "porcentajeVotos": 27.239
+              "votos": 306,
+              "porcentajeVotos": 26.984
             },
             {
               "partido": "JUNTOS POR EL PERÚ",
               "codigoPartido": "10",
               "candidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
-              "votos": 190,
-              "porcentajeVotos": 23.313
+              "votos": 268,
+              "porcentajeVotos": 23.633
             },
             {
               "partido": "PARTIDO CÍVICO OBRAS",
               "codigoPartido": "14",
               "candidato": "RICARDO PABLO BELMONT CASSINELLI",
-              "votos": 100,
-              "porcentajeVotos": 12.27
+              "votos": 136,
+              "porcentajeVotos": 11.993
             },
             {
               "partido": "VOTOS NULOS",
               "codigoPartido": "81",
               "candidato": null,
-              "votos": 73,
+              "votos": 120,
               "porcentajeVotos": 0
             },
             {
               "partido": "PARTIDO PAÍS PARA TODOS",
               "codigoPartido": "23",
               "candidato": "CARLOS GONSALO ALVAREZ LOAYZA",
-              "votos": 53,
-              "porcentajeVotos": 6.503
+              "votos": 64,
+              "porcentajeVotos": 5.644
             },
             {
               "partido": "PODEMOS PERÚ",
               "codigoPartido": "32",
               "candidato": "JOSE LEON LUNA GALVEZ",
-              "votos": 42,
-              "porcentajeVotos": 5.153
+              "votos": 58,
+              "porcentajeVotos": 5.115
             },
             {
               "partido": "RENOVACIÓN POPULAR",
               "codigoPartido": "35",
               "candidato": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
-              "votos": 27,
-              "porcentajeVotos": 3.313
+              "votos": 37,
+              "porcentajeVotos": 3.263
             },
             {
               "partido": "AHORA NACIÓN - AN",
               "codigoPartido": "2",
               "candidato": "PABLO ALFONSO LOPEZ CHAU NAVA",
-              "votos": 22,
-              "porcentajeVotos": 2.699
+              "votos": 33,
+              "porcentajeVotos": 2.91
             },
             {
               "partido": "ALIANZA PARA EL PROGRESO",
               "codigoPartido": "1",
               "candidato": "CESAR ACUÑA PERALTA",
-              "votos": 16,
-              "porcentajeVotos": 1.963
+              "votos": 26,
+              "porcentajeVotos": 2.293
             },
             {
               "partido": "PARTIDO DEL BUEN GOBIERNO",
               "codigoPartido": "16",
               "candidato": "JORGE NIETO MONTESINOS",
-              "votos": 15,
-              "porcentajeVotos": 1.84
-            },
-            {
-              "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
-              "codigoPartido": "27",
-              "candidato": "VLADIMIR ROY CERRON ROJAS",
-              "votos": 12,
-              "porcentajeVotos": 1.472
-            },
-            {
-              "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
-              "codigoPartido": "33",
-              "candidato": "MARIA SOLEDAD PEREZ TELLO",
-              "votos": 12,
-              "porcentajeVotos": 1.472
-            },
-            {
-              "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
-              "codigoPartido": "17",
-              "candidato": "CHARLIE CARRASCO SALAZAR",
-              "votos": 12,
-              "porcentajeVotos": 1.472
-            },
-            {
-              "partido": "ALIANZA ELECTORAL VENCEREMOS",
-              "codigoPartido": "3",
-              "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
-              "votos": 11,
-              "porcentajeVotos": 1.35
-            },
-            {
-              "partido": "PARTIDO SICREO",
-              "codigoPartido": "31",
-              "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
-              "votos": 11,
-              "porcentajeVotos": 1.35
+              "votos": 21,
+              "porcentajeVotos": 1.852
             },
             {
               "partido": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
               "codigoPartido": "20",
               "candidato": "GEORGE PATRICK FORSYTH SOMMER",
-              "votos": 9,
-              "porcentajeVotos": 1.104
+              "votos": 19,
+              "porcentajeVotos": 1.675
             },
             {
-              "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
-              "codigoPartido": "24",
-              "candidato": "HERBERT CALLER GUTIERREZ",
-              "votos": 8,
-              "porcentajeVotos": 0.982
+              "partido": "PARTIDO SICREO",
+              "codigoPartido": "31",
+              "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
+              "votos": 18,
+              "porcentajeVotos": 1.587
+            },
+            {
+              "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
+              "codigoPartido": "17",
+              "candidato": "CHARLIE CARRASCO SALAZAR",
+              "votos": 17,
+              "porcentajeVotos": 1.499
+            },
+            {
+              "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
+              "codigoPartido": "27",
+              "candidato": "VLADIMIR ROY CERRON ROJAS",
+              "votos": 15,
+              "porcentajeVotos": 1.323
+            },
+            {
+              "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
+              "codigoPartido": "33",
+              "candidato": "MARIA SOLEDAD PEREZ TELLO",
+              "votos": 15,
+              "porcentajeVotos": 1.323
+            },
+            {
+              "partido": "ALIANZA ELECTORAL VENCEREMOS",
+              "codigoPartido": "3",
+              "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
+              "votos": 14,
+              "porcentajeVotos": 1.235
             },
             {
               "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
               "codigoPartido": "21",
               "candidato": "LUIS FERNANDO OLIVERA VEGA",
+              "votos": 11,
+              "porcentajeVotos": 0.97
+            },
+            {
+              "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
+              "codigoPartido": "24",
+              "candidato": "HERBERT CALLER GUTIERREZ",
+              "votos": 9,
+              "porcentajeVotos": 0.794
+            },
+            {
+              "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
+              "codigoPartido": "29",
+              "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
               "votos": 8,
-              "porcentajeVotos": 0.982
+              "porcentajeVotos": 0.705
+            },
+            {
+              "partido": "PARTIDO DEMÓCRATA VERDE",
+              "codigoPartido": "18",
+              "candidato": "ALEX GONZALES CASTILLO",
+              "votos": 7,
+              "porcentajeVotos": 0.617
             },
             {
               "partido": "PARTIDO POLÍTICO PERÚ ACCIÓN",
               "codigoPartido": "28",
               "candidato": "FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA",
               "votos": 6,
-              "porcentajeVotos": 0.736
-            },
-            {
-              "partido": "PARTIDO DEMÓCRATA VERDE",
-              "codigoPartido": "18",
-              "candidato": "ALEX GONZALES CASTILLO",
-              "votos": 5,
-              "porcentajeVotos": 0.613
-            },
-            {
-              "partido": "UN CAMINO DIFERENTE",
-              "codigoPartido": "37",
-              "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
-              "votos": 5,
-              "porcentajeVotos": 0.613
-            },
-            {
-              "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
-              "codigoPartido": "29",
-              "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
-              "votos": 5,
-              "porcentajeVotos": 0.613
+              "porcentajeVotos": 0.529
             },
             {
               "partido": "PROGRESEMOS",
               "codigoPartido": "34",
               "candidato": "PAUL DAVIS JAIMES BLANCO",
-              "votos": 4,
-              "porcentajeVotos": 0.491
+              "votos": 6,
+              "porcentajeVotos": 0.529
             },
             {
               "partido": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
               "codigoPartido": "25",
               "candidato": "YONHY LESCANO ANCIETA",
-              "votos": 4,
-              "porcentajeVotos": 0.491
+              "votos": 6,
+              "porcentajeVotos": 0.529
+            },
+            {
+              "partido": "UN CAMINO DIFERENTE",
+              "codigoPartido": "37",
+              "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
+              "votos": 6,
+              "porcentajeVotos": 0.529
+            },
+            {
+              "partido": "FUERZA Y LIBERTAD",
+              "codigoPartido": "9",
+              "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
+              "votos": 5,
+              "porcentajeVotos": 0.441
+            },
+            {
+              "partido": "FE EN EL PERÚ",
+              "codigoPartido": "5",
+              "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
+              "votos": 3,
+              "porcentajeVotos": 0.265
+            },
+            {
+              "partido": "LIBERTAD POPULAR",
+              "codigoPartido": "11",
+              "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
+              "votos": 3,
+              "porcentajeVotos": 0.265
+            },
+            {
+              "partido": "SALVEMOS AL PERÚ",
+              "codigoPartido": "36",
+              "candidato": "ANTONIO ORTIZ VILLANO",
+              "votos": 3,
+              "porcentajeVotos": 0.265
             },
             {
               "partido": "PARTIDO APRISTA PERUANO",
               "codigoPartido": "12",
               "candidato": "PITTER ENRIQUE VALDERRAMA PEÑA",
               "votos": 3,
-              "porcentajeVotos": 0.368
+              "porcentajeVotos": 0.265
             },
             {
-              "partido": "FUERZA Y LIBERTAD",
-              "codigoPartido": "9",
-              "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
+              "partido": "UNIDAD NACIONAL",
+              "codigoPartido": "38",
+              "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
               "votos": 3,
-              "porcentajeVotos": 0.368
+              "porcentajeVotos": 0.265
             },
             {
               "partido": "PARTIDO MORADO",
               "codigoPartido": "22",
               "candidato": "MESIAS ANTONIO GUEVARA AMASIFUEN",
               "votos": 3,
-              "porcentajeVotos": 0.368
+              "porcentajeVotos": 0.265
             },
             {
-              "partido": "FE EN EL PERÚ",
-              "codigoPartido": "5",
-              "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
+              "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
+              "codigoPartido": "15",
+              "candidato": "NAPOLEON BECERRA GARCIA",
               "votos": 2,
-              "porcentajeVotos": 0.245
+              "porcentajeVotos": 0.176
+            },
+            {
+              "partido": "PARTIDO POLÍTICO PRIN",
+              "codigoPartido": "30",
+              "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
+              "votos": 1,
+              "porcentajeVotos": 0.088
             },
             {
               "partido": "PARTIDO DEMOCRATICO FEDERAL",
               "codigoPartido": "19",
               "candidato": "ARMANDO JOAQUIN MASSE FERNANDEZ",
               "votos": 1,
-              "porcentajeVotos": 0.123
-            },
-            {
-              "partido": "LIBERTAD POPULAR",
-              "codigoPartido": "11",
-              "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
-              "votos": 1,
-              "porcentajeVotos": 0.123
+              "porcentajeVotos": 0.088
             },
             {
               "partido": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
               "codigoPartido": "7",
               "candidato": "JOSE DANIEL WILLIAMS ZAPATA",
               "votos": 1,
-              "porcentajeVotos": 0.123
-            },
-            {
-              "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
-              "codigoPartido": "15",
-              "candidato": "NAPOLEON BECERRA GARCIA",
-              "votos": 1,
-              "porcentajeVotos": 0.123
-            },
-            {
-              "partido": "UNIDAD NACIONAL",
-              "codigoPartido": "38",
-              "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
-              "votos": 1,
-              "porcentajeVotos": 0.123
-            },
-            {
-              "partido": "PARTIDO POLÍTICO PRIN",
-              "codigoPartido": "30",
-              "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
-              "votos": 0,
-              "porcentajeVotos": 0
+              "porcentajeVotos": 0.088
             },
             {
               "partido": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
@@ -5707,13 +5714,6 @@
               "partido": "PERÚ MODERNO",
               "codigoPartido": "4",
               "candidato": "CARLOS ERNESTO JAICO CARRANZA",
-              "votos": 0,
-              "porcentajeVotos": 0
-            },
-            {
-              "partido": "SALVEMOS AL PERÚ",
-              "codigoPartido": "36",
-              "candidato": "ANTONIO ORTIZ VILLANO",
               "votos": 0,
               "porcentajeVotos": 0
             }
@@ -6545,266 +6545,266 @@
       "partido": "FUERZA POPULAR",
       "codigoPartido": "8",
       "candidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
-      "votos": 25711,
-      "porcentajeVotos": 23.77
+      "votos": 26395,
+      "porcentajeVotos": 23.73
     },
     {
       "partido": "VOTOS EN BLANCO",
       "codigoPartido": "80",
       "candidato": null,
-      "votos": 20179,
-      "porcentajeVotos": 18.66
+      "votos": 20667,
+      "porcentajeVotos": 18.58
     },
     {
       "partido": "PARTIDO PAÍS PARA TODOS",
       "codigoPartido": "23",
       "candidato": "CARLOS GONSALO ALVAREZ LOAYZA",
-      "votos": 9817,
-      "porcentajeVotos": 9.08
+      "votos": 10078,
+      "porcentajeVotos": 9.06
     },
     {
       "partido": "PARTIDO CÍVICO OBRAS",
       "codigoPartido": "14",
       "candidato": "RICARDO PABLO BELMONT CASSINELLI",
-      "votos": 6760,
-      "porcentajeVotos": 6.25
+      "votos": 6989,
+      "porcentajeVotos": 6.28
     },
     {
       "partido": "JUNTOS POR EL PERÚ",
       "codigoPartido": "10",
       "candidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
-      "votos": 6618,
-      "porcentajeVotos": 6.12
+      "votos": 6822,
+      "porcentajeVotos": 6.13
     },
     {
       "partido": "VOTOS NULOS",
       "codigoPartido": "81",
       "candidato": null,
-      "votos": 5782,
-      "porcentajeVotos": 5.35
+      "votos": 5923,
+      "porcentajeVotos": 5.33
     },
     {
       "partido": "RENOVACIÓN POPULAR",
       "codigoPartido": "35",
       "candidato": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
-      "votos": 4899,
-      "porcentajeVotos": 4.53
+      "votos": 5071,
+      "porcentajeVotos": 4.56
     },
     {
       "partido": "PARTIDO DEL BUEN GOBIERNO",
       "codigoPartido": "16",
       "candidato": "JORGE NIETO MONTESINOS",
-      "votos": 4268,
-      "porcentajeVotos": 3.95
+      "votos": 4435,
+      "porcentajeVotos": 3.99
     },
     {
       "partido": "AHORA NACIÓN - AN",
       "codigoPartido": "2",
       "candidato": "PABLO ALFONSO LOPEZ CHAU NAVA",
-      "votos": 3501,
-      "porcentajeVotos": 3.24
+      "votos": 3621,
+      "porcentajeVotos": 3.26
     },
     {
       "partido": "PODEMOS PERÚ",
       "codigoPartido": "32",
       "candidato": "JOSE LEON LUNA GALVEZ",
-      "votos": 2696,
+      "votos": 2764,
       "porcentajeVotos": 2.49
-    },
-    {
-      "partido": "PARTIDO SICREO",
-      "codigoPartido": "31",
-      "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
-      "votos": 2175,
-      "porcentajeVotos": 2.01
     },
     {
       "partido": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
       "codigoPartido": "33",
       "candidato": "MARIA SOLEDAD PEREZ TELLO",
-      "votos": 2167,
-      "porcentajeVotos": 2
+      "votos": 2245,
+      "porcentajeVotos": 2.02
+    },
+    {
+      "partido": "PARTIDO SICREO",
+      "codigoPartido": "31",
+      "candidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
+      "votos": 2240,
+      "porcentajeVotos": 2.01
     },
     {
       "partido": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
       "codigoPartido": "20",
       "candidato": "GEORGE PATRICK FORSYTH SOMMER",
-      "votos": 1741,
+      "votos": 1788,
       "porcentajeVotos": 1.61
     },
     {
       "partido": "PARTIDO POLÍTICO PERÚ PRIMERO",
       "codigoPartido": "29",
       "candidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
-      "votos": 1537,
+      "votos": 1575,
       "porcentajeVotos": 1.42
     },
     {
       "partido": "PARTIDO FRENTE DE LA ESPERANZA 2021",
       "codigoPartido": "21",
       "candidato": "LUIS FERNANDO OLIVERA VEGA",
-      "votos": 1311,
+      "votos": 1347,
       "porcentajeVotos": 1.21
     },
     {
       "partido": "PARTIDO PATRIÓTICO DEL PERÚ",
       "codigoPartido": "24",
       "candidato": "HERBERT CALLER GUTIERREZ",
-      "votos": 1109,
-      "porcentajeVotos": 1.03
+      "votos": 1135,
+      "porcentajeVotos": 1.02
     },
     {
       "partido": "PARTIDO DEMÓCRATA UNIDO PERÚ",
       "codigoPartido": "17",
       "candidato": "CHARLIE CARRASCO SALAZAR",
-      "votos": 1020,
+      "votos": 1045,
       "porcentajeVotos": 0.94
     },
     {
       "partido": "ALIANZA PARA EL PROGRESO",
       "codigoPartido": "1",
       "candidato": "CESAR ACUÑA PERALTA",
-      "votos": 811,
+      "votos": 839,
       "porcentajeVotos": 0.75
     },
     {
       "partido": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
       "codigoPartido": "25",
       "candidato": "YONHY LESCANO ANCIETA",
-      "votos": 701,
+      "votos": 722,
       "porcentajeVotos": 0.65
     },
     {
       "partido": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
       "codigoPartido": "27",
       "candidato": "VLADIMIR ROY CERRON ROJAS",
-      "votos": 688,
+      "votos": 708,
       "porcentajeVotos": 0.64
     },
     {
       "partido": "PROGRESEMOS",
       "codigoPartido": "34",
       "candidato": "PAUL DAVIS JAIMES BLANCO",
-      "votos": 632,
+      "votos": 646,
       "porcentajeVotos": 0.58
     },
     {
       "partido": "PARTIDO APRISTA PERUANO",
       "codigoPartido": "12",
       "candidato": "PITTER ENRIQUE VALDERRAMA PEÑA",
-      "votos": 613,
+      "votos": 635,
       "porcentajeVotos": 0.57
     },
     {
       "partido": "ALIANZA ELECTORAL VENCEREMOS",
       "codigoPartido": "3",
       "candidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
-      "votos": 568,
+      "votos": 590,
       "porcentajeVotos": 0.53
     },
     {
       "partido": "PARTIDO DEMÓCRATA VERDE",
       "codigoPartido": "18",
       "candidato": "ALEX GONZALES CASTILLO",
-      "votos": 377,
+      "votos": 386,
       "porcentajeVotos": 0.35
     },
     {
       "partido": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
       "codigoPartido": "26",
       "candidato": "WOLFGANG MARIO GROZO COSTA",
-      "votos": 364,
-      "porcentajeVotos": 0.34
+      "votos": 372,
+      "porcentajeVotos": 0.33
     },
     {
       "partido": "PARTIDO MORADO",
       "codigoPartido": "22",
       "candidato": "MESIAS ANTONIO GUEVARA AMASIFUEN",
-      "votos": 324,
+      "votos": 335,
       "porcentajeVotos": 0.3
     },
     {
       "partido": "PARTIDO POLÍTICO PERÚ ACCIÓN",
       "codigoPartido": "28",
       "candidato": "FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA",
-      "votos": 263,
-      "porcentajeVotos": 0.24
+      "votos": 274,
+      "porcentajeVotos": 0.25
     },
     {
       "partido": "UNIDAD NACIONAL",
       "codigoPartido": "38",
       "candidato": "ROBERTO ENRIQUE CHIABRA LEON",
-      "votos": 240,
+      "votos": 249,
       "porcentajeVotos": 0.22
-    },
-    {
-      "partido": "FUERZA Y LIBERTAD",
-      "codigoPartido": "9",
-      "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
-      "votos": 183,
-      "porcentajeVotos": 0.17
     },
     {
       "partido": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
       "codigoPartido": "7",
       "candidato": "JOSE DANIEL WILLIAMS ZAPATA",
-      "votos": 182,
+      "votos": 193,
+      "porcentajeVotos": 0.17
+    },
+    {
+      "partido": "FUERZA Y LIBERTAD",
+      "codigoPartido": "9",
+      "candidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
+      "votos": 187,
       "porcentajeVotos": 0.17
     },
     {
       "partido": "UN CAMINO DIFERENTE",
       "codigoPartido": "37",
       "candidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
-      "votos": 182,
+      "votos": 187,
       "porcentajeVotos": 0.17
     },
     {
       "partido": "LIBERTAD POPULAR",
       "codigoPartido": "11",
       "candidato": "RAFAEL JORGE BELAUNDE LLOSA",
-      "votos": 161,
+      "votos": 167,
       "porcentajeVotos": 0.15
     },
     {
       "partido": "FE EN EL PERÚ",
       "codigoPartido": "5",
       "candidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
-      "votos": 160,
+      "votos": 163,
       "porcentajeVotos": 0.15
     },
     {
       "partido": "SALVEMOS AL PERÚ",
       "codigoPartido": "36",
       "candidato": "ANTONIO ORTIZ VILLANO",
-      "votos": 112,
+      "votos": 115,
       "porcentajeVotos": 0.1
-    },
-    {
-      "partido": "PARTIDO POLÍTICO PRIN",
-      "codigoPartido": "30",
-      "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
-      "votos": 81,
-      "porcentajeVotos": 0.07
     },
     {
       "partido": "PARTIDO DEMOCRATICO FEDERAL",
       "codigoPartido": "19",
       "candidato": "ARMANDO JOAQUIN MASSE FERNANDEZ",
-      "votos": 79,
+      "votos": 83,
+      "porcentajeVotos": 0.07
+    },
+    {
+      "partido": "PARTIDO POLÍTICO PRIN",
+      "codigoPartido": "30",
+      "candidato": "WALTER GILMER CHIRINOS PURIZAGA",
+      "votos": 83,
       "porcentajeVotos": 0.07
     },
     {
       "partido": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
       "codigoPartido": "15",
       "candidato": "NAPOLEON BECERRA GARCIA",
-      "votos": 73,
+      "votos": 79,
       "porcentajeVotos": 0.07
     },
     {
       "partido": "PERÚ MODERNO",
       "codigoPartido": "4",
       "candidato": "CARLOS ERNESTO JAICO CARRANZA",
-      "votos": 61,
+      "votos": 62,
       "porcentajeVotos": 0.06
     }
   ]
