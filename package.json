@@ -1,0 +1,12 @@
+{
+  "name": "onpe-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for ONPE electoral results",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}

@@ -1,28 +1,6 @@
 {
-  "timestamp": "2026-04-13T15:04:08.209Z",
-  "eleccion": "presidenciales 2026",
-  "fuente": "ONPE resumen-general/totales",
-  "actas": {
-    "totalActas": 92766,
-    "actasContabilizadas": 49719,
-    "actasContabilizadasPorcentaje": 53.596,
-    "actasEnviadasJee": 137,
-    "actasEnviadasJeePorcentaje": 0.148,
-    "actasPendientesJee": 42910,
-    "actasPendientesJeePorcentaje": 46.256
-  },
-  "participacion": {
-    "participacionCiudadana": 41.825,
-    "totalVotosEmitidos": 11428855,
-    "totalVotosValidos": 9798294,
-    "porcentajeVotosEmitidos": 100,
-    "porcentajeVotosValidos": 100
-  },
-  "ubicacion": {
-    "idUbigeoDepartamento": 140000,
-    "idUbigeoProvincia": 140100,
-    "idUbigeoDistrito": 140101,
-    "idUbigeoDistritoElectoral": 15
-  },
-  "fechaActualizacion": "2026-04-13T14:00:26.879Z"
+  "timestamp": "2026-04-13T16:04:16.175Z",
+  "participacionCiudadana": 42.044,
+  "totalVotosEmitidos": 11488641,
+  "totalVotosValidos": 9847379
 }
