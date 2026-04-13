@@ -1,6 +1,22 @@
 {
-  "timestamp": "2026-04-13T16:04:16.175Z",
-  "participacionCiudadana": 42.044,
-  "totalVotosEmitidos": 11488641,
-  "totalVotosValidos": 9847379
+  "timestamp": "2026-04-13T16:36:15.878Z",
+  "data": {
+    "actasContabilizadas": 54.179,
+    "contabilizadas": 50260,
+    "totalActas": 92766,
+    "participacionCiudadana": 42.265,
+    "actasEnviadasJee": 0.17,
+    "enviadasJee": 158,
+    "actasPendientesJee": 45.651,
+    "pendientesJee": 42348,
+    "fechaActualizacion": 1776097031931,
+    "idUbigeoDepartamento": 140000,
+    "idUbigeoProvincia": 140100,
+    "idUbigeoDistrito": 140101,
+    "idUbigeoDistritoElectoral": 15,
+    "totalVotosEmitidos": 11549105,
+    "totalVotosValidos": 9896933,
+    "porcentajeVotosEmitidos": 100,
+    "porcentajeVotosValidos": 100
+  }
 }
