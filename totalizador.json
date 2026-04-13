@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-04-13T19:01:50.387Z",
+  "timestamp": "2026-04-13T19:28:31.420Z",
   "totales_peru": [
     {
       "nombreAgrupacionPolitica": "FUERZA POPULAR",
       "codigoAgrupacionPolitica": "8",
       "nombreCandidato": "KEIKO SOFIA FUJIMORI HIGUCHI",
       "dniCandidato": "10001088",
-      "totalVotosValidos": 1708043,
-      "porcentajeVotosValidos": 16.941,
-      "porcentajeVotosEmitidos": 14.509
+      "totalVotosValidos": 1717575,
+      "porcentajeVotosValidos": 16.939,
+      "porcentajeVotosEmitidos": 14.505
     },
     {
       "nombreAgrupacionPolitica": "RENOVACIÓN POPULAR",
       "codigoAgrupacionPolitica": "35",
       "nombreCandidato": "RAFAEL BERNARDO LÓPEZ ALIAGA CAZORLA",
       "dniCandidato": "07845838",
-      "totalVotosValidos": 1447139,
-      "porcentajeVotosValidos": 14.353,
-      "porcentajeVotosEmitidos": 12.293
+      "totalVotosValidos": 1451542,
+      "porcentajeVotosValidos": 14.315,
+      "porcentajeVotosEmitidos": 12.258
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO DEL BUEN GOBIERNO",
       "codigoAgrupacionPolitica": "16",
       "nombreCandidato": "JORGE NIETO MONTESINOS",
       "dniCandidato": "06506278",
-      "totalVotosValidos": 1281804,
-      "porcentajeVotosValidos": 12.713,
-      "porcentajeVotosEmitidos": 10.889
+      "totalVotosValidos": 1287557,
+      "porcentajeVotosValidos": 12.698,
+      "porcentajeVotosEmitidos": 10.873
     },
     {
       "nombreAgrupacionPolitica": "VOTOS EN BLANCO",
       "codigoAgrupacionPolitica": "80",
       "nombreCandidato": "",
       "dniCandidato": "",
-      "totalVotosValidos": 1162088,
-      "porcentajeVotosEmitidos": 9.872
+      "totalVotosValidos": 1170359,
+      "porcentajeVotosEmitidos": 9.884
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO CÍVICO OBRAS",
       "codigoAgrupacionPolitica": "14",
       "nombreCandidato": "RICARDO PABLO BELMONT CASSINELLI",
       "dniCandidato": "09177250",
-      "totalVotosValidos": 996889,
-      "porcentajeVotosValidos": 9.887,
-      "porcentajeVotosEmitidos": 8.468
+      "totalVotosValidos": 1002934,
+      "porcentajeVotosValidos": 9.891,
+      "porcentajeVotosEmitidos": 8.47
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO PAÍS PARA TODOS",
       "codigoAgrupacionPolitica": "23",
       "nombreCandidato": "CARLOS GONSALO ALVAREZ LOAYZA",
       "dniCandidato": "06002034",
-      "totalVotosValidos": 849777,
-      "porcentajeVotosValidos": 8.428,
-      "porcentajeVotosEmitidos": 7.219
+      "totalVotosValidos": 854187,
+      "porcentajeVotosValidos": 8.424,
+      "porcentajeVotosEmitidos": 7.214
     },
     {
       "nombreAgrupacionPolitica": "JUNTOS POR EL PERÚ",
       "codigoAgrupacionPolitica": "10",
       "nombreCandidato": "ROBERTO HELBERT SANCHEZ PALOMINO",
       "dniCandidato": "16002918",
-      "totalVotosValidos": 823185,
-      "porcentajeVotosValidos": 8.164,
-      "porcentajeVotosEmitidos": 6.993
+      "totalVotosValidos": 831308,
+      "porcentajeVotosValidos": 8.198,
+      "porcentajeVotosEmitidos": 7.02
     },
     {
       "nombreAgrupacionPolitica": "AHORA NACIÓN - AN",
       "codigoAgrupacionPolitica": "2",
       "nombreCandidato": "PABLO ALFONSO LOPEZ CHAU NAVA",
       "dniCandidato": "25331980",
-      "totalVotosValidos": 769214,
-      "porcentajeVotosValidos": 7.629,
+      "totalVotosValidos": 773772,
+      "porcentajeVotosValidos": 7.631,
       "porcentajeVotosEmitidos": 6.534
     },
     {
@@ -77,60 +77,60 @@
       "codigoAgrupacionPolitica": "81",
       "nombreCandidato": "",
       "dniCandidato": "",
-      "totalVotosValidos": 527382,
-      "porcentajeVotosEmitidos": 4.48
+      "totalVotosValidos": 531326,
+      "porcentajeVotosEmitidos": 4.487
     },
     {
       "nombreAgrupacionPolitica": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
       "codigoAgrupacionPolitica": "33",
       "nombreCandidato": "MARIA SOLEDAD PEREZ TELLO",
       "dniCandidato": "07867789",
-      "totalVotosValidos": 391455,
-      "porcentajeVotosValidos": 3.882,
-      "porcentajeVotosEmitidos": 3.325
+      "totalVotosValidos": 393340,
+      "porcentajeVotosValidos": 3.879,
+      "porcentajeVotosEmitidos": 3.322
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO SICREO",
       "codigoAgrupacionPolitica": "31",
       "nombreCandidato": "ALFONSO CARLOS ESPA Y GARCES-ALVEAR",
       "dniCandidato": "10266270",
-      "totalVotosValidos": 374164,
+      "totalVotosValidos": 376242,
       "porcentajeVotosValidos": 3.711,
-      "porcentajeVotosEmitidos": 3.178
+      "porcentajeVotosEmitidos": 3.177
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
       "codigoAgrupacionPolitica": "21",
       "nombreCandidato": "LUIS FERNANDO OLIVERA VEGA",
       "dniCandidato": "06280714",
-      "totalVotosValidos": 186016,
-      "porcentajeVotosValidos": 1.845,
-      "porcentajeVotosEmitidos": 1.58
+      "totalVotosValidos": 187418,
+      "porcentajeVotosValidos": 1.848,
+      "porcentajeVotosEmitidos": 1.583
     },
     {
       "nombreAgrupacionPolitica": "PODEMOS PERÚ",
       "codigoAgrupacionPolitica": "32",
       "nombreCandidato": "JOSE LEON LUNA GALVEZ",
       "dniCandidato": "07246887",
-      "totalVotosValidos": 129437,
-      "porcentajeVotosValidos": 1.284,
-      "porcentajeVotosEmitidos": 1.1
+      "totalVotosValidos": 130334,
+      "porcentajeVotosValidos": 1.285,
+      "porcentajeVotosEmitidos": 1.101
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
       "codigoAgrupacionPolitica": "25",
       "nombreCandidato": "YONHY LESCANO ANCIETA",
       "dniCandidato": "01211014",
-      "totalVotosValidos": 123724,
-      "porcentajeVotosValidos": 1.227,
-      "porcentajeVotosEmitidos": 1.051
+      "totalVotosValidos": 124888,
+      "porcentajeVotosValidos": 1.232,
+      "porcentajeVotosEmitidos": 1.055
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO APRISTA PERUANO",
       "codigoAgrupacionPolitica": "12",
       "nombreCandidato": "PITTER ENRIQUE VALDERRAMA PEÑA",
       "dniCandidato": "43632186",
-      "totalVotosValidos": 92318,
+      "totalVotosValidos": 92838,
       "porcentajeVotosValidos": 0.916,
       "porcentajeVotosEmitidos": 0.784
     },
@@ -139,16 +139,16 @@
       "codigoAgrupacionPolitica": "1",
       "nombreCandidato": "CESAR ACUÑA PERALTA",
       "dniCandidato": "17903382",
-      "totalVotosValidos": 89840,
-      "porcentajeVotosValidos": 0.891,
-      "porcentajeVotosEmitidos": 0.763
+      "totalVotosValidos": 90528,
+      "porcentajeVotosValidos": 0.893,
+      "porcentajeVotosEmitidos": 0.765
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
       "codigoAgrupacionPolitica": "20",
       "nombreCandidato": "GEORGE PATRICK FORSYTH SOMMER",
       "dniCandidato": "41265978",
-      "totalVotosValidos": 81332,
+      "totalVotosValidos": 81829,
       "porcentajeVotosValidos": 0.807,
       "porcentajeVotosEmitidos": 0.691
     },
@@ -157,52 +157,52 @@
       "codigoAgrupacionPolitica": "24",
       "nombreCandidato": "HERBERT CALLER GUTIERREZ",
       "dniCandidato": "43409673",
-      "totalVotosValidos": 80896,
-      "porcentajeVotosValidos": 0.802,
-      "porcentajeVotosEmitidos": 0.687
+      "totalVotosValidos": 81479,
+      "porcentajeVotosValidos": 0.804,
+      "porcentajeVotosEmitidos": 0.688
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO POLÍTICO PERÚ PRIMERO",
       "codigoAgrupacionPolitica": "29",
       "nombreCandidato": "MARIO ENRIQUE VIZCARRA CORNEJO",
       "dniCandidato": "04411300",
-      "totalVotosValidos": 76041,
-      "porcentajeVotosValidos": 0.754,
-      "porcentajeVotosEmitidos": 0.646
+      "totalVotosValidos": 76572,
+      "porcentajeVotosValidos": 0.755,
+      "porcentajeVotosEmitidos": 0.647
     },
     {
       "nombreAgrupacionPolitica": "ALIANZA ELECTORAL VENCEREMOS",
       "codigoAgrupacionPolitica": "3",
       "nombreCandidato": "RONALD DARWIN ATENCIO SOTOMAYOR",
       "dniCandidato": "41373494",
-      "totalVotosValidos": 70698,
-      "porcentajeVotosValidos": 0.701,
-      "porcentajeVotosEmitidos": 0.601
+      "totalVotosValidos": 71372,
+      "porcentajeVotosValidos": 0.704,
+      "porcentajeVotosEmitidos": 0.603
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO DEMÓCRATA UNIDO PERÚ",
       "codigoAgrupacionPolitica": "17",
       "nombreCandidato": "CHARLIE CARRASCO SALAZAR",
       "dniCandidato": "40799023",
-      "totalVotosValidos": 63134,
-      "porcentajeVotosValidos": 0.626,
-      "porcentajeVotosEmitidos": 0.536
+      "totalVotosValidos": 63594,
+      "porcentajeVotosValidos": 0.627,
+      "porcentajeVotosEmitidos": 0.537
     },
     {
       "nombreAgrupacionPolitica": "UN CAMINO DIFERENTE",
       "codigoAgrupacionPolitica": "37",
       "nombreCandidato": "ROSARIO DEL PILAR FERNANDEZ BAZAN",
       "dniCandidato": "18141156",
-      "totalVotosValidos": 54213,
-      "porcentajeVotosValidos": 0.538,
-      "porcentajeVotosEmitidos": 0.461
+      "totalVotosValidos": 54733,
+      "porcentajeVotosValidos": 0.54,
+      "porcentajeVotosEmitidos": 0.462
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO MORADO",
       "codigoAgrupacionPolitica": "22",
       "nombreCandidato": "MESIAS ANTONIO GUEVARA AMASIFUEN",
       "dniCandidato": "09871134",
-      "totalVotosValidos": 52762,
+      "totalVotosValidos": 53034,
       "porcentajeVotosValidos": 0.523,
       "porcentajeVotosEmitidos": 0.448
     },
@@ -211,34 +211,34 @@
       "codigoAgrupacionPolitica": "27",
       "nombreCandidato": "VLADIMIR ROY CERRON ROJAS",
       "dniCandidato": "06466585",
-      "totalVotosValidos": 50385,
-      "porcentajeVotosValidos": 0.5,
-      "porcentajeVotosEmitidos": 0.428
+      "totalVotosValidos": 50839,
+      "porcentajeVotosValidos": 0.501,
+      "porcentajeVotosEmitidos": 0.429
     },
     {
       "nombreAgrupacionPolitica": "UNIDAD NACIONAL",
       "codigoAgrupacionPolitica": "38",
       "nombreCandidato": "ROBERTO ENRIQUE CHIABRA LEON",
       "dniCandidato": "40728264",
-      "totalVotosValidos": 46918,
+      "totalVotosValidos": 47105,
       "porcentajeVotosValidos": 0.465,
-      "porcentajeVotosEmitidos": 0.399
+      "porcentajeVotosEmitidos": 0.398
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
       "codigoAgrupacionPolitica": "26",
       "nombreCandidato": "WOLFGANG MARIO GROZO COSTA",
       "dniCandidato": "07260881",
-      "totalVotosValidos": 42110,
-      "porcentajeVotosValidos": 0.418,
-      "porcentajeVotosEmitidos": 0.358
+      "totalVotosValidos": 42294,
+      "porcentajeVotosValidos": 0.417,
+      "porcentajeVotosEmitidos": 0.357
     },
     {
       "nombreAgrupacionPolitica": "PROGRESEMOS",
       "codigoAgrupacionPolitica": "34",
       "nombreCandidato": "PAUL DAVIS JAIMES BLANCO",
       "dniCandidato": "40139245",
-      "totalVotosValidos": 38590,
+      "totalVotosValidos": 38797,
       "porcentajeVotosValidos": 0.383,
       "porcentajeVotosEmitidos": 0.328
     },
@@ -247,16 +247,16 @@
       "codigoAgrupacionPolitica": "18",
       "nombreCandidato": "ALEX GONZALES CASTILLO",
       "dniCandidato": "09307547",
-      "totalVotosValidos": 32987,
-      "porcentajeVotosValidos": 0.327,
-      "porcentajeVotosEmitidos": 0.28
+      "totalVotosValidos": 33222,
+      "porcentajeVotosValidos": 0.328,
+      "porcentajeVotosEmitidos": 0.281
     },
     {
       "nombreAgrupacionPolitica": "LIBERTAD POPULAR",
       "codigoAgrupacionPolitica": "11",
       "nombreCandidato": "RAFAEL JORGE BELAUNDE LLOSA",
       "dniCandidato": "10219647",
-      "totalVotosValidos": 24122,
+      "totalVotosValidos": 24282,
       "porcentajeVotosValidos": 0.239,
       "porcentajeVotosEmitidos": 0.205
     },
@@ -265,26 +265,26 @@
       "codigoAgrupacionPolitica": "7",
       "nombreCandidato": "JOSE DANIEL WILLIAMS ZAPATA",
       "dniCandidato": "43287528",
-      "totalVotosValidos": 20187,
-      "porcentajeVotosValidos": 0.2,
-      "porcentajeVotosEmitidos": 0.171
+      "totalVotosValidos": 20362,
+      "porcentajeVotosValidos": 0.201,
+      "porcentajeVotosEmitidos": 0.172
     },
     {
       "nombreAgrupacionPolitica": "PARTIDO POLÍTICO PERÚ ACCIÓN",
       "codigoAgrupacionPolitica": "28",
       "nombreCandidato": "FRANCISCO ERNESTO DIEZ-CANSECO TÁVARA",
       "dniCandidato": "08263758",
-      "totalVotosValidos": 17458,
+      "totalVotosValidos": 17588,
       "porcentajeVotosValidos": 0.173,
-      "porcentajeVotosEmitidos": 0.148
+      "porcentajeVotosEmitidos": 0.149
     },
     {
       "nombreAgrupacionPolitica": "FUERZA Y LIBERTAD",
       "codigoAgrupacionPolitica": "9",
       "nombreCandidato": "FIORELLA GIANNINA MOLINELLI ARISTONDO",
       "dniCandidato": "25681995",
-      "totalVotosValidos": 15757,
-      "porcentajeVotosValidos": 0.156,
+      "totalVotosValidos": 15871,
+      "porcentajeVotosValidos": 0.157,
       "porcentajeVotosEmitidos": 0.134
     },
     {
@@ -292,8 +292,8 @@
       "codigoAgrupacionPolitica": "5",
       "nombreCandidato": "ALVARO GONZALO PAZ DE LA BARRA FREIGEIRO",
       "dniCandidato": "41904418",
-      "totalVotosValidos": 12129,
-      "porcentajeVotosValidos": 0.12,
+      "totalVotosValidos": 12220,
+      "porcentajeVotosValidos": 0.121,
       "porcentajeVotosEmitidos": 0.103
     },
     {
@@ -301,7 +301,7 @@
       "codigoAgrupacionPolitica": "19",
       "nombreCandidato": "ARMANDO JOAQUIN MASSE FERNANDEZ",
       "dniCandidato": "08255194",
-      "totalVotosValidos": 11864,
+      "totalVotosValidos": 11936,
       "porcentajeVotosValidos": 0.118,
       "porcentajeVotosEmitidos": 0.101
     },
@@ -310,7 +310,7 @@
       "codigoAgrupacionPolitica": "36",
       "nombreCandidato": "ANTONIO ORTIZ VILLANO",
       "dniCandidato": "08587486",
-      "totalVotosValidos": 8036,
+      "totalVotosValidos": 8096,
       "porcentajeVotosValidos": 0.08,
       "porcentajeVotosEmitidos": 0.068
     },
@@ -319,8 +319,8 @@
       "codigoAgrupacionPolitica": "30",
       "nombreCandidato": "WALTER GILMER CHIRINOS PURIZAGA",
       "dniCandidato": "18870364",
-      "totalVotosValidos": 7915,
-      "porcentajeVotosValidos": 0.079,
+      "totalVotosValidos": 7956,
+      "porcentajeVotosValidos": 0.078,
       "porcentajeVotosEmitidos": 0.067
     },
     {
@@ -328,7 +328,7 @@
       "codigoAgrupacionPolitica": "15",
       "nombreCandidato": "NAPOLEON BECERRA GARCIA",
       "dniCandidato": "08058852",
-      "totalVotosValidos": 6631,
+      "totalVotosValidos": 6669,
       "porcentajeVotosValidos": 0.066,
       "porcentajeVotosEmitidos": 0.056
     },
@@ -337,27 +337,27 @@
       "codigoAgrupacionPolitica": "4",
       "nombreCandidato": "CARLOS ERNESTO JAICO CARRANZA",
       "dniCandidato": "06529088",
-      "totalVotosValidos": 5414,
+      "totalVotosValidos": 5449,
       "porcentajeVotosValidos": 0.054,
       "porcentajeVotosEmitidos": 0.046
     }
   ],
   "actas": {
-    "actasContabilizadas": 55.369,
-    "contabilizadas": 51364,
+    "actasContabilizadas": 55.587,
+    "contabilizadas": 51566,
     "totalActas": 92766,
-    "participacionCiudadana": 43.168,
-    "actasEnviadasJee": 0.175,
-    "enviadasJee": 162,
-    "actasPendientesJee": 44.456,
-    "pendientesJee": 41240,
-    "fechaActualizacion": 1776106518066,
+    "participacionCiudadana": 43.335,
+    "actasEnviadasJee": 0.18,
+    "enviadasJee": 167,
+    "actasPendientesJee": 44.233,
+    "pendientesJee": 41033,
+    "fechaActualizacion": 1776107855193,
     "idUbigeoDepartamento": 140000,
     "idUbigeoProvincia": 140100,
     "idUbigeoDistrito": 140101,
     "idUbigeoDistritoElectoral": 15,
-    "totalVotosEmitidos": 11795976,
-    "totalVotosValidos": 10102167,
+    "totalVotosEmitidos": 11841447,
+    "totalVotosValidos": 10139762,
     "porcentajeVotosEmitidos": 100,
     "porcentajeVotosValidos": 100
   }
