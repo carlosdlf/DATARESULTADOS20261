@@ -1,0 +1,1339 @@
+{
+  "timestamp": "2026-04-14T00:36:43.417Z",
+  "eleccion": "presidenciales 2026",
+  "ambito": "extranjero",
+  "continentes": [
+    {
+      "codigo": "910000",
+      "nombre": "ÁFRICA",
+      "paises": [
+        {
+          "codigo": "910100",
+          "nombre": "ARGELIA",
+          "ciudades": [
+            {
+              "codigo": "910101",
+              "nombre": "ARGEL"
+            }
+          ]
+        },
+        {
+          "codigo": "911200",
+          "nombre": "GHANA",
+          "ciudades": [
+            {
+              "codigo": "911201",
+              "nombre": "ACRA"
+            }
+          ]
+        },
+        {
+          "codigo": "910400",
+          "nombre": "KENIA",
+          "ciudades": [
+            {
+              "codigo": "910401",
+              "nombre": "NAIROBI"
+            }
+          ]
+        },
+        {
+          "codigo": "910500",
+          "nombre": "MARRUECOS",
+          "ciudades": [
+            {
+              "codigo": "910502",
+              "nombre": "RABAT"
+            }
+          ]
+        },
+        {
+          "codigo": "910300",
+          "nombre": "REPÚBLICA ÁRABE DE EGIPTO",
+          "ciudades": [
+            {
+              "codigo": "910302",
+              "nombre": "EL CAIRO"
+            }
+          ]
+        },
+        {
+          "codigo": "910600",
+          "nombre": "SUDÁFRICA",
+          "ciudades": [
+            {
+              "codigo": "910603",
+              "nombre": "PRETORIA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "920000",
+      "nombre": "AMÉRICA",
+      "paises": [
+        {
+          "codigo": "920100",
+          "nombre": "ANTILLAS HOLANDESAS",
+          "ciudades": [
+            {
+              "codigo": "920101",
+              "nombre": "ARUBA"
+            }
+          ]
+        },
+        {
+          "codigo": "920200",
+          "nombre": "ARGENTINA",
+          "ciudades": [
+            {
+              "codigo": "920202",
+              "nombre": "BUENOS AIRES"
+            },
+            {
+              "codigo": "920224",
+              "nombre": "CATAMARCA"
+            },
+            {
+              "codigo": "920203",
+              "nombre": "CÓRDOBA"
+            },
+            {
+              "codigo": "920204",
+              "nombre": "CORRIENTES"
+            },
+            {
+              "codigo": "920205",
+              "nombre": "LA PLATA"
+            },
+            {
+              "codigo": "920226",
+              "nombre": "LA RIOJA"
+            },
+            {
+              "codigo": "920206",
+              "nombre": "MENDOZA"
+            },
+            {
+              "codigo": "920207",
+              "nombre": "ROSARIO DE SANTA FE"
+            },
+            {
+              "codigo": "920208",
+              "nombre": "SALTA"
+            },
+            {
+              "codigo": "920210",
+              "nombre": "SAN JUAN"
+            },
+            {
+              "codigo": "920219",
+              "nombre": "SAN LUIS"
+            }
+          ]
+        },
+        {
+          "codigo": "920400",
+          "nombre": "BOLIVIA",
+          "ciudades": [
+            {
+              "codigo": "920401",
+              "nombre": "COCHABAMBA"
+            },
+            {
+              "codigo": "920403",
+              "nombre": "LA PAZ"
+            },
+            {
+              "codigo": "920405",
+              "nombre": "SANTA CRUZ"
+            }
+          ]
+        },
+        {
+          "codigo": "920500",
+          "nombre": "BRASIL",
+          "ciudades": [
+            {
+              "codigo": "920502",
+              "nombre": "BELO HORIZONTE"
+            },
+            {
+              "codigo": "920503",
+              "nombre": "BRASILIA"
+            },
+            {
+              "codigo": "920504",
+              "nombre": "CURITIBA"
+            },
+            {
+              "codigo": "920536",
+              "nombre": "FORTALEZA"
+            },
+            {
+              "codigo": "920532",
+              "nombre": "GOIANIA"
+            },
+            {
+              "codigo": "920505",
+              "nombre": "MANAOS"
+            },
+            {
+              "codigo": "920506",
+              "nombre": "PORTO ALEGRE"
+            },
+            {
+              "codigo": "920508",
+              "nombre": "RÍO BRANCO"
+            },
+            {
+              "codigo": "920509",
+              "nombre": "RÍO DE JANEIRO"
+            },
+            {
+              "codigo": "920511",
+              "nombre": "SALVADOR"
+            },
+            {
+              "codigo": "920510",
+              "nombre": "SAO PAULO"
+            }
+          ]
+        },
+        {
+          "codigo": "920600",
+          "nombre": "CANADÁ",
+          "ciudades": [
+            {
+              "codigo": "920608",
+              "nombre": "ALBERTA"
+            },
+            {
+              "codigo": "920601",
+              "nombre": "MONTREAL"
+            },
+            {
+              "codigo": "920602",
+              "nombre": "OTTAWA"
+            },
+            {
+              "codigo": "920603",
+              "nombre": "TORONTO"
+            },
+            {
+              "codigo": "920604",
+              "nombre": "VANCOUVER"
+            },
+            {
+              "codigo": "920605",
+              "nombre": "WINNIPEG"
+            }
+          ]
+        },
+        {
+          "codigo": "921000",
+          "nombre": "CHILE",
+          "ciudades": [
+            {
+              "codigo": "921001",
+              "nombre": "ANTOFAGASTA"
+            },
+            {
+              "codigo": "921002",
+              "nombre": "ARICA"
+            },
+            {
+              "codigo": "921003",
+              "nombre": "CONCEPCIÓN"
+            },
+            {
+              "codigo": "921026",
+              "nombre": "COPIAPÓ"
+            },
+            {
+              "codigo": "921005",
+              "nombre": "IQUIQUE"
+            },
+            {
+              "codigo": "921006",
+              "nombre": "SANTIAGO"
+            },
+            {
+              "codigo": "921007",
+              "nombre": "VALPARAISO"
+            }
+          ]
+        },
+        {
+          "codigo": "920700",
+          "nombre": "COLOMBIA",
+          "ciudades": [
+            {
+              "codigo": "920701",
+              "nombre": "BARRANQUILLA"
+            },
+            {
+              "codigo": "920702",
+              "nombre": "BOGOTÁ"
+            },
+            {
+              "codigo": "920709",
+              "nombre": "BUCARAMANGA"
+            },
+            {
+              "codigo": "920703",
+              "nombre": "CALI"
+            },
+            {
+              "codigo": "920737",
+              "nombre": "CARTAGENA"
+            },
+            {
+              "codigo": "920705",
+              "nombre": "LETICIA"
+            },
+            {
+              "codigo": "920706",
+              "nombre": "MEDELLÍN"
+            },
+            {
+              "codigo": "920717",
+              "nombre": "PASTO"
+            }
+          ]
+        },
+        {
+          "codigo": "920800",
+          "nombre": "COSTA RICA",
+          "ciudades": [
+            {
+              "codigo": "920803",
+              "nombre": "SAN JOSÉ"
+            }
+          ]
+        },
+        {
+          "codigo": "920900",
+          "nombre": "CUBA",
+          "ciudades": [
+            {
+              "codigo": "920901",
+              "nombre": "LA HABANA"
+            }
+          ]
+        },
+        {
+          "codigo": "921100",
+          "nombre": "ECUADOR",
+          "ciudades": [
+            {
+              "codigo": "921110",
+              "nombre": "AZUAY"
+            },
+            {
+              "codigo": "921101",
+              "nombre": "GUAYAQUIL"
+            },
+            {
+              "codigo": "921102",
+              "nombre": "LOJA"
+            },
+            {
+              "codigo": "921104",
+              "nombre": "MACHALA"
+            },
+            {
+              "codigo": "921105",
+              "nombre": "QUITO"
+            }
+          ]
+        },
+        {
+          "codigo": "921200",
+          "nombre": "EL SALVADOR",
+          "ciudades": [
+            {
+              "codigo": "921201",
+              "nombre": "SAN SALVADOR"
+            }
+          ]
+        },
+        {
+          "codigo": "921300",
+          "nombre": "ESTADOS UNIDOS DE ÁMERICA",
+          "ciudades": [
+            {
+              "codigo": "921381",
+              "nombre": "ATLANTA"
+            },
+            {
+              "codigo": "921303",
+              "nombre": "BOSTON"
+            },
+            {
+              "codigo": "921350",
+              "nombre": "CAROLINA DEL NORTE"
+            },
+            {
+              "codigo": "921304",
+              "nombre": "CHICAGO"
+            },
+            {
+              "codigo": "921373",
+              "nombre": "DALLAS"
+            },
+            {
+              "codigo": "921308",
+              "nombre": "DENVER"
+            },
+            {
+              "codigo": "921385",
+              "nombre": "HARTFORD"
+            },
+            {
+              "codigo": "921313",
+              "nombre": "HOUSTON"
+            },
+            {
+              "codigo": "921315",
+              "nombre": "LOS ÁNGELES"
+            },
+            {
+              "codigo": "921317",
+              "nombre": "MIAMI"
+            },
+            {
+              "codigo": "921335",
+              "nombre": "NUEVA JERSEY"
+            },
+            {
+              "codigo": "921318",
+              "nombre": "NUEVA ORLEANS"
+            },
+            {
+              "codigo": "921319",
+              "nombre": "NUEVA YORK"
+            },
+            {
+              "codigo": "921322",
+              "nombre": "OKLAHOMA"
+            },
+            {
+              "codigo": "921320",
+              "nombre": "ORLANDO"
+            },
+            {
+              "codigo": "921372",
+              "nombre": "PHOENIX"
+            },
+            {
+              "codigo": "921374",
+              "nombre": "SALT LAKE CITY"
+            },
+            {
+              "codigo": "921323",
+              "nombre": "SAN ANTONIO"
+            },
+            {
+              "codigo": "921324",
+              "nombre": "SAN DIEGO"
+            },
+            {
+              "codigo": "921325",
+              "nombre": "SAN FRANCISCO"
+            },
+            {
+              "codigo": "921328",
+              "nombre": "SEATTLE"
+            },
+            {
+              "codigo": "921331",
+              "nombre": "WASHINGTON D. C."
+            }
+          ]
+        },
+        {
+          "codigo": "921500",
+          "nombre": "GUATEMALA",
+          "ciudades": [
+            {
+              "codigo": "921501",
+              "nombre": "GUATEMALA"
+            }
+          ]
+        },
+        {
+          "codigo": "923000",
+          "nombre": "GUAYANA FRANCESA",
+          "ciudades": [
+            {
+              "codigo": "923001",
+              "nombre": "CAYENA"
+            }
+          ]
+        },
+        {
+          "codigo": "921700",
+          "nombre": "HONDURAS",
+          "ciudades": [
+            {
+              "codigo": "921701",
+              "nombre": "TEGUCIGALPA"
+            }
+          ]
+        },
+        {
+          "codigo": "921900",
+          "nombre": "MÉXICO",
+          "ciudades": [
+            {
+              "codigo": "921902",
+              "nombre": "CIUDAD DE MÉXICO"
+            },
+            {
+              "codigo": "921901",
+              "nombre": "GUADALAJARA"
+            },
+            {
+              "codigo": "921903",
+              "nombre": "MONTERREY"
+            }
+          ]
+        },
+        {
+          "codigo": "922000",
+          "nombre": "NICARAGUA",
+          "ciudades": [
+            {
+              "codigo": "922001",
+              "nombre": "MANAGUA"
+            }
+          ]
+        },
+        {
+          "codigo": "922100",
+          "nombre": "PANAMÁ",
+          "ciudades": [
+            {
+              "codigo": "922103",
+              "nombre": "COLON"
+            },
+            {
+              "codigo": "922102",
+              "nombre": "DAVID"
+            },
+            {
+              "codigo": "922101",
+              "nombre": "PANAMÁ"
+            },
+            {
+              "codigo": "922108",
+              "nombre": "VERAGUAS"
+            }
+          ]
+        },
+        {
+          "codigo": "922200",
+          "nombre": "PARAGUAY",
+          "ciudades": [
+            {
+              "codigo": "922201",
+              "nombre": "ASUNCIÓN"
+            }
+          ]
+        },
+        {
+          "codigo": "922300",
+          "nombre": "PUERTO RICO",
+          "ciudades": [
+            {
+              "codigo": "922303",
+              "nombre": "SAN JUAN"
+            }
+          ]
+        },
+        {
+          "codigo": "922400",
+          "nombre": "REPÚBLICA DOMINICANA",
+          "ciudades": [
+            {
+              "codigo": "922403",
+              "nombre": "SANTIAGO DE LOS CABALLEROS"
+            },
+            {
+              "codigo": "922401",
+              "nombre": "SANTO DOMINGO"
+            }
+          ]
+        },
+        {
+          "codigo": "922600",
+          "nombre": "TRINIDAD Y TOBAGO",
+          "ciudades": [
+            {
+              "codigo": "922601",
+              "nombre": "PUERTO ESPAÑA"
+            }
+          ]
+        },
+        {
+          "codigo": "922700",
+          "nombre": "URUGUAY",
+          "ciudades": [
+            {
+              "codigo": "922701",
+              "nombre": "MONTEVIDEO"
+            }
+          ]
+        },
+        {
+          "codigo": "922800",
+          "nombre": "VENEZUELA",
+          "ciudades": [
+            {
+              "codigo": "922802",
+              "nombre": "CARACAS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "930000",
+      "nombre": "ASIA",
+      "paises": [
+        {
+          "codigo": "931900",
+          "nombre": "ARABIA SAUDITA",
+          "ciudades": [
+            {
+              "codigo": "931904",
+              "nombre": "RIAD"
+            }
+          ]
+        },
+        {
+          "codigo": "933800",
+          "nombre": "CATAR",
+          "ciudades": [
+            {
+              "codigo": "933801",
+              "nombre": "DOHA"
+            }
+          ]
+        },
+        {
+          "codigo": "933700",
+          "nombre": "EMIRATOS ÁRABES UNIDOS",
+          "ciudades": [
+            {
+              "codigo": "933702",
+              "nombre": "ABU DABI"
+            },
+            {
+              "codigo": "933701",
+              "nombre": "DUBÁI"
+            }
+          ]
+        },
+        {
+          "codigo": "933200",
+          "nombre": "FILIPINAS",
+          "ciudades": [
+            {
+              "codigo": "933201",
+              "nombre": "MANILA"
+            }
+          ]
+        },
+        {
+          "codigo": "930400",
+          "nombre": "INDIA",
+          "ciudades": [
+            {
+              "codigo": "930402",
+              "nombre": "NUEVA DELHI"
+            }
+          ]
+        },
+        {
+          "codigo": "931100",
+          "nombre": "INDONESIA",
+          "ciudades": [
+            {
+              "codigo": "931101",
+              "nombre": "JAKARTA"
+            }
+          ]
+        },
+        {
+          "codigo": "932400",
+          "nombre": "IRÁN",
+          "ciudades": [
+            {
+              "codigo": "932401",
+              "nombre": "TEHERAN"
+            }
+          ]
+        },
+        {
+          "codigo": "930600",
+          "nombre": "ISRAEL",
+          "ciudades": [
+            {
+              "codigo": "930603",
+              "nombre": "RAMLA"
+            },
+            {
+              "codigo": "930602",
+              "nombre": "TEL AVIV"
+            }
+          ]
+        },
+        {
+          "codigo": "930700",
+          "nombre": "JAPÓN",
+          "ciudades": [
+            {
+              "codigo": "930705",
+              "nombre": "FUKUOKA"
+            },
+            {
+              "codigo": "930721",
+              "nombre": "GUNMA"
+            },
+            {
+              "codigo": "930709",
+              "nombre": "HIROSHIMA"
+            },
+            {
+              "codigo": "930731",
+              "nombre": "KOBE"
+            },
+            {
+              "codigo": "930727",
+              "nombre": "MIE"
+            },
+            {
+              "codigo": "930713",
+              "nombre": "NAGOYA"
+            },
+            {
+              "codigo": "930704",
+              "nombre": "OKINAWA"
+            },
+            {
+              "codigo": "930720",
+              "nombre": "SAITAMA"
+            },
+            {
+              "codigo": "930736",
+              "nombre": "SHIGA"
+            },
+            {
+              "codigo": "930726",
+              "nombre": "SHIZUOKA"
+            },
+            {
+              "codigo": "930703",
+              "nombre": "TOKIO"
+            }
+          ]
+        },
+        {
+          "codigo": "931300",
+          "nombre": "JORDANIA",
+          "ciudades": [
+            {
+              "codigo": "931302",
+              "nombre": "AMMAN"
+            }
+          ]
+        },
+        {
+          "codigo": "932800",
+          "nombre": "KUWAIT",
+          "ciudades": [
+            {
+              "codigo": "932801",
+              "nombre": "AL - KUWAIT"
+            }
+          ]
+        },
+        {
+          "codigo": "930800",
+          "nombre": "LÍBANO",
+          "ciudades": [
+            {
+              "codigo": "930801",
+              "nombre": "BEIRUT"
+            }
+          ]
+        },
+        {
+          "codigo": "933000",
+          "nombre": "MALASIA",
+          "ciudades": [
+            {
+              "codigo": "933001",
+              "nombre": "KUALA LUMPUR"
+            }
+          ]
+        },
+        {
+          "codigo": "930100",
+          "nombre": "REPUBLICA DE COREA",
+          "ciudades": [
+            {
+              "codigo": "930101",
+              "nombre": "SEÚL"
+            }
+          ]
+        },
+        {
+          "codigo": "930200",
+          "nombre": "REPÚBLICA POPULAR CHINA",
+          "ciudades": [
+            {
+              "codigo": "930201",
+              "nombre": "BEIJING (PEKIN)"
+            },
+            {
+              "codigo": "930232",
+              "nombre": "GUANGZHOU"
+            },
+            {
+              "codigo": "930226",
+              "nombre": "REGION ADMINISTRATIVA ESPECIAL HONG KONG"
+            },
+            {
+              "codigo": "930206",
+              "nombre": "SHANGHÁI"
+            }
+          ]
+        },
+        {
+          "codigo": "932500",
+          "nombre": "SINGAPUR",
+          "ciudades": [
+            {
+              "codigo": "932501",
+              "nombre": "SINGAPUR"
+            }
+          ]
+        },
+        {
+          "codigo": "931000",
+          "nombre": "TAILANDIA",
+          "ciudades": [
+            {
+              "codigo": "931001",
+              "nombre": "BANGKOK"
+            }
+          ]
+        },
+        {
+          "codigo": "931500",
+          "nombre": "TURQUÍA",
+          "ciudades": [
+            {
+              "codigo": "931503",
+              "nombre": "ANKARA"
+            },
+            {
+              "codigo": "931501",
+              "nombre": "ESTAMBUL"
+            }
+          ]
+        },
+        {
+          "codigo": "932000",
+          "nombre": "VIETNAM",
+          "ciudades": [
+            {
+              "codigo": "932002",
+              "nombre": "HANÓI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "940000",
+      "nombre": "EUROPA",
+      "paises": [
+        {
+          "codigo": "940200",
+          "nombre": "ALEMANIA",
+          "ciudades": [
+            {
+              "codigo": "940201",
+              "nombre": "BERLÍN"
+            },
+            {
+              "codigo": "940203",
+              "nombre": "BREMEN"
+            },
+            {
+              "codigo": "940213",
+              "nombre": "COLONIA"
+            },
+            {
+              "codigo": "940205",
+              "nombre": "FRANKFURT"
+            },
+            {
+              "codigo": "940206",
+              "nombre": "HAMBURGO"
+            },
+            {
+              "codigo": "940245",
+              "nombre": "MÚNICH"
+            }
+          ]
+        },
+        {
+          "codigo": "940300",
+          "nombre": "AUSTRIA",
+          "ciudades": [
+            {
+              "codigo": "940302",
+              "nombre": "VIENA"
+            }
+          ]
+        },
+        {
+          "codigo": "940400",
+          "nombre": "BÉLGICA",
+          "ciudades": [
+            {
+              "codigo": "940401",
+              "nombre": "AMBERES"
+            },
+            {
+              "codigo": "940402",
+              "nombre": "BRUSELAS"
+            },
+            {
+              "codigo": "940403",
+              "nombre": "GANTE"
+            },
+            {
+              "codigo": "940404",
+              "nombre": "LIEJA"
+            }
+          ]
+        },
+        {
+          "codigo": "943600",
+          "nombre": "BIELORRUSIA",
+          "ciudades": [
+            {
+              "codigo": "943601",
+              "nombre": "MINSK"
+            }
+          ]
+        },
+        {
+          "codigo": "940800",
+          "nombre": "DINAMARCA",
+          "ciudades": [
+            {
+              "codigo": "940801",
+              "nombre": "COPENHAGUE"
+            }
+          ]
+        },
+        {
+          "codigo": "940900",
+          "nombre": "ESPAÑA",
+          "ciudades": [
+            {
+              "codigo": "940935",
+              "nombre": "ALMERÍA"
+            },
+            {
+              "codigo": "940902",
+              "nombre": "BARCELONA"
+            },
+            {
+              "codigo": "940903",
+              "nombre": "BILBAO"
+            },
+            {
+              "codigo": "940909",
+              "nombre": "LAS PALMAS"
+            },
+            {
+              "codigo": "940910",
+              "nombre": "MADRID"
+            },
+            {
+              "codigo": "940911",
+              "nombre": "MÁLAGA"
+            },
+            {
+              "codigo": "940913",
+              "nombre": "MALLORCA"
+            },
+            {
+              "codigo": "940931",
+              "nombre": "OVIEDO"
+            },
+            {
+              "codigo": "940905",
+              "nombre": "SALAMANCA"
+            },
+            {
+              "codigo": "940918",
+              "nombre": "SEVILLA"
+            },
+            {
+              "codigo": "940915",
+              "nombre": "TENERIFE"
+            },
+            {
+              "codigo": "940920",
+              "nombre": "VALENCIA"
+            },
+            {
+              "codigo": "940922",
+              "nombre": "VIGO"
+            },
+            {
+              "codigo": "940917",
+              "nombre": "ZARAGOZA"
+            }
+          ]
+        },
+        {
+          "codigo": "941000",
+          "nombre": "FINLANDIA",
+          "ciudades": [
+            {
+              "codigo": "941001",
+              "nombre": "HELSINKI"
+            }
+          ]
+        },
+        {
+          "codigo": "941100",
+          "nombre": "FRANCIA",
+          "ciudades": [
+            {
+              "codigo": "941101",
+              "nombre": "BURDEOS"
+            },
+            {
+              "codigo": "941103",
+              "nombre": "ESTRASBURGO"
+            },
+            {
+              "codigo": "941105",
+              "nombre": "LYON"
+            },
+            {
+              "codigo": "941106",
+              "nombre": "MARSELLA"
+            },
+            {
+              "codigo": "941107",
+              "nombre": "NIZA"
+            },
+            {
+              "codigo": "941108",
+              "nombre": "PARÍS"
+            },
+            {
+              "codigo": "941110",
+              "nombre": "TOULOUSE"
+            }
+          ]
+        },
+        {
+          "codigo": "941200",
+          "nombre": "GRAN BRETAÑA",
+          "ciudades": [
+            {
+              "codigo": "941204",
+              "nombre": "LONDRES"
+            }
+          ]
+        },
+        {
+          "codigo": "942000",
+          "nombre": "GRAN DUCADO DE LUXEMBURGO",
+          "ciudades": [
+            {
+              "codigo": "942001",
+              "nombre": "LUXEMBURGO"
+            }
+          ]
+        },
+        {
+          "codigo": "941300",
+          "nombre": "GRECIA",
+          "ciudades": [
+            {
+              "codigo": "941301",
+              "nombre": "ATENAS"
+            }
+          ]
+        },
+        {
+          "codigo": "941400",
+          "nombre": "HOLANDA",
+          "ciudades": [
+            {
+              "codigo": "941401",
+              "nombre": "ÁMSTERDAM"
+            }
+          ]
+        },
+        {
+          "codigo": "941500",
+          "nombre": "HUNGRÍA",
+          "ciudades": [
+            {
+              "codigo": "941501",
+              "nombre": "BUDAPEST"
+            }
+          ]
+        },
+        {
+          "codigo": "941800",
+          "nombre": "IRLANDA",
+          "ciudades": [
+            {
+              "codigo": "941801",
+              "nombre": "DUBLÍN"
+            }
+          ]
+        },
+        {
+          "codigo": "941700",
+          "nombre": "ITALIA",
+          "ciudades": [
+            {
+              "codigo": "941701",
+              "nombre": "BOLONIA"
+            },
+            {
+              "codigo": "941755",
+              "nombre": "BOLZANO"
+            },
+            {
+              "codigo": "941703",
+              "nombre": "FLORENCIA"
+            },
+            {
+              "codigo": "941704",
+              "nombre": "GÉNOVA"
+            },
+            {
+              "codigo": "941717",
+              "nombre": "MARCAS"
+            },
+            {
+              "codigo": "941706",
+              "nombre": "MILÁN"
+            },
+            {
+              "codigo": "941707",
+              "nombre": "NÁPOLES"
+            },
+            {
+              "codigo": "941748",
+              "nombre": "PERUGIA"
+            },
+            {
+              "codigo": "941709",
+              "nombre": "ROMA"
+            },
+            {
+              "codigo": "941710",
+              "nombre": "TRIESTE"
+            },
+            {
+              "codigo": "941711",
+              "nombre": "TURÍN"
+            }
+          ]
+        },
+        {
+          "codigo": "943700",
+          "nombre": "MACEDONIA",
+          "ciudades": [
+            {
+              "codigo": "943701",
+              "nombre": "SKOPIE"
+            }
+          ]
+        },
+        {
+          "codigo": "942100",
+          "nombre": "MALTA",
+          "ciudades": [
+            {
+              "codigo": "942101",
+              "nombre": "LA VALETTA"
+            }
+          ]
+        },
+        {
+          "codigo": "942300",
+          "nombre": "NORUEGA",
+          "ciudades": [
+            {
+              "codigo": "942302",
+              "nombre": "OSLO"
+            }
+          ]
+        },
+        {
+          "codigo": "942400",
+          "nombre": "POLONIA",
+          "ciudades": [
+            {
+              "codigo": "942401",
+              "nombre": "VARSOVIA"
+            }
+          ]
+        },
+        {
+          "codigo": "942500",
+          "nombre": "PORTUGAL",
+          "ciudades": [
+            {
+              "codigo": "942502",
+              "nombre": "LISBOA"
+            }
+          ]
+        },
+        {
+          "codigo": "944200",
+          "nombre": "PRINCIPADO DE ANDORRA",
+          "ciudades": [
+            {
+              "codigo": "944202",
+              "nombre": "ANDORRA LA VELLA"
+            }
+          ]
+        },
+        {
+          "codigo": "940600",
+          "nombre": "REPÚBLICA CHECA",
+          "ciudades": [
+            {
+              "codigo": "940601",
+              "nombre": "PRAGA"
+            }
+          ]
+        },
+        {
+          "codigo": "942600",
+          "nombre": "RUMANÍA",
+          "ciudades": [
+            {
+              "codigo": "942601",
+              "nombre": "BUCAREST"
+            },
+            {
+              "codigo": "942604",
+              "nombre": "TIMISOARA"
+            }
+          ]
+        },
+        {
+          "codigo": "942900",
+          "nombre": "RUSIA",
+          "ciudades": [
+            {
+              "codigo": "942901",
+              "nombre": "MOSCÚ"
+            },
+            {
+              "codigo": "942910",
+              "nombre": "SAN PETERSBURGO"
+            }
+          ]
+        },
+        {
+          "codigo": "942700",
+          "nombre": "SUECIA",
+          "ciudades": [
+            {
+              "codigo": "942701",
+              "nombre": "ESTOCOLMO"
+            },
+            {
+              "codigo": "942703",
+              "nombre": "MALMO"
+            }
+          ]
+        },
+        {
+          "codigo": "942800",
+          "nombre": "SUIZA",
+          "ciudades": [
+            {
+              "codigo": "942802",
+              "nombre": "BERNA"
+            },
+            {
+              "codigo": "942803",
+              "nombre": "GINEBRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "950000",
+      "nombre": "OCEANÍA",
+      "paises": [
+        {
+          "codigo": "950100",
+          "nombre": "AUSTRALIA",
+          "ciudades": [
+            {
+              "codigo": "950102",
+              "nombre": "BRISBANE"
+            },
+            {
+              "codigo": "950103",
+              "nombre": "CAMBERRA"
+            },
+            {
+              "codigo": "950104",
+              "nombre": "MELBOURNE"
+            },
+            {
+              "codigo": "950106",
+              "nombre": "PERTH"
+            },
+            {
+              "codigo": "950105",
+              "nombre": "SÍDNEY"
+            }
+          ]
+        },
+        {
+          "codigo": "950200",
+          "nombre": "NUEVA ZELANDA",
+          "ciudades": [
+            {
+              "codigo": "950201",
+              "nombre": "AUCKLAND"
+            },
+            {
+              "codigo": "950202",
+              "nombre": "WELLINGTON"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
