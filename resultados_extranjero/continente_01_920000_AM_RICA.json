@@ -1,0 +1,776 @@
+{
+  "timestamp": "2026-04-16T01:08:08.984Z",
+  "eleccion": "presidenciales 2026",
+  "nivel": "continente_completo",
+  "continente": {
+    "codigo": "920000",
+    "nombre": "AMÉRICA"
+  },
+  "actasactualizadas": null,
+  "candidatos": [],
+  "paises": [
+    {
+      "codigo": "920100",
+      "nombre": "ANTILLAS HOLANDESAS",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "920101",
+          "nombre": "ARUBA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "920200",
+      "nombre": "ARGENTINA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "920202",
+          "nombre": "BUENOS AIRES",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920224",
+          "nombre": "CATAMARCA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920203",
+          "nombre": "CÓRDOBA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920204",
+          "nombre": "CORRIENTES",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920205",
+          "nombre": "LA PLATA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920226",
+          "nombre": "LA RIOJA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920206",
+          "nombre": "MENDOZA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920207",
+          "nombre": "ROSARIO DE SANTA FE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920208",
+          "nombre": "SALTA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920210",
+          "nombre": "SAN JUAN",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920219",
+          "nombre": "SAN LUIS",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "920400",
+      "nombre": "BOLIVIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "920401",
+          "nombre": "COCHABAMBA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920403",
+          "nombre": "LA PAZ",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920405",
+          "nombre": "SANTA CRUZ",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "920500",
+      "nombre": "BRASIL",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "920502",
+          "nombre": "BELO HORIZONTE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920503",
+          "nombre": "BRASILIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920504",
+          "nombre": "CURITIBA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920536",
+          "nombre": "FORTALEZA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920532",
+          "nombre": "GOIANIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920505",
+          "nombre": "MANAOS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920506",
+          "nombre": "PORTO ALEGRE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920508",
+          "nombre": "RÍO BRANCO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920509",
+          "nombre": "RÍO DE JANEIRO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920511",
+          "nombre": "SALVADOR",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920510",
+          "nombre": "SAO PAULO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "920600",
+      "nombre": "CANADÁ",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "920608",
+          "nombre": "ALBERTA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920601",
+          "nombre": "MONTREAL",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920602",
+          "nombre": "OTTAWA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920603",
+          "nombre": "TORONTO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920604",
+          "nombre": "VANCOUVER",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920605",
+          "nombre": "WINNIPEG",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "921000",
+      "nombre": "CHILE",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "921001",
+          "nombre": "ANTOFAGASTA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921002",
+          "nombre": "ARICA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921003",
+          "nombre": "CONCEPCIÓN",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921026",
+          "nombre": "COPIAPÓ",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921005",
+          "nombre": "IQUIQUE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921006",
+          "nombre": "SANTIAGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921007",
+          "nombre": "VALPARAISO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "920700",
+      "nombre": "COLOMBIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "920701",
+          "nombre": "BARRANQUILLA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920702",
+          "nombre": "BOGOTÁ",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920709",
+          "nombre": "BUCARAMANGA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920703",
+          "nombre": "CALI",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920737",
+          "nombre": "CARTAGENA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920705",
+          "nombre": "LETICIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920706",
+          "nombre": "MEDELLÍN",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "920717",
+          "nombre": "PASTO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "920800",
+      "nombre": "COSTA RICA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "920803",
+          "nombre": "SAN JOSÉ",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "920900",
+      "nombre": "CUBA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "920901",
+          "nombre": "LA HABANA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "921100",
+      "nombre": "ECUADOR",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "921110",
+          "nombre": "AZUAY",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921101",
+          "nombre": "GUAYAQUIL",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921102",
+          "nombre": "LOJA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921104",
+          "nombre": "MACHALA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921105",
+          "nombre": "QUITO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "921200",
+      "nombre": "EL SALVADOR",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "921201",
+          "nombre": "SAN SALVADOR",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "921300",
+      "nombre": "ESTADOS UNIDOS DE ÁMERICA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "921381",
+          "nombre": "ATLANTA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921303",
+          "nombre": "BOSTON",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921350",
+          "nombre": "CAROLINA DEL NORTE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921304",
+          "nombre": "CHICAGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921373",
+          "nombre": "DALLAS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921308",
+          "nombre": "DENVER",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921385",
+          "nombre": "HARTFORD",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921313",
+          "nombre": "HOUSTON",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921315",
+          "nombre": "LOS ÁNGELES",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921317",
+          "nombre": "MIAMI",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921335",
+          "nombre": "NUEVA JERSEY",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921318",
+          "nombre": "NUEVA ORLEANS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921319",
+          "nombre": "NUEVA YORK",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921322",
+          "nombre": "OKLAHOMA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921320",
+          "nombre": "ORLANDO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921372",
+          "nombre": "PHOENIX",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921374",
+          "nombre": "SALT LAKE CITY",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921323",
+          "nombre": "SAN ANTONIO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921324",
+          "nombre": "SAN DIEGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921325",
+          "nombre": "SAN FRANCISCO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921328",
+          "nombre": "SEATTLE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921331",
+          "nombre": "WASHINGTON D. C.",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "921500",
+      "nombre": "GUATEMALA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "921501",
+          "nombre": "GUATEMALA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "923000",
+      "nombre": "GUAYANA FRANCESA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "923001",
+          "nombre": "CAYENA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "921700",
+      "nombre": "HONDURAS",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "921701",
+          "nombre": "TEGUCIGALPA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "921900",
+      "nombre": "MÉXICO",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "921902",
+          "nombre": "CIUDAD DE MÉXICO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921901",
+          "nombre": "GUADALAJARA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "921903",
+          "nombre": "MONTERREY",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "922000",
+      "nombre": "NICARAGUA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "922001",
+          "nombre": "MANAGUA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "922100",
+      "nombre": "PANAMÁ",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "922103",
+          "nombre": "COLON",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "922102",
+          "nombre": "DAVID",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "922101",
+          "nombre": "PANAMÁ",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "922108",
+          "nombre": "VERAGUAS",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "922200",
+      "nombre": "PARAGUAY",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "922201",
+          "nombre": "ASUNCIÓN",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "922300",
+      "nombre": "PUERTO RICO",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "922303",
+          "nombre": "SAN JUAN",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "922400",
+      "nombre": "REPÚBLICA DOMINICANA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "922403",
+          "nombre": "SANTIAGO DE LOS CABALLEROS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "922401",
+          "nombre": "SANTO DOMINGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "922600",
+      "nombre": "TRINIDAD Y TOBAGO",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "922601",
+          "nombre": "PUERTO ESPAÑA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "922700",
+      "nombre": "URUGUAY",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "922701",
+          "nombre": "MONTEVIDEO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "922800",
+      "nombre": "VENEZUELA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "922802",
+          "nombre": "CARACAS",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    }
+  ],
+  "total": []
+}

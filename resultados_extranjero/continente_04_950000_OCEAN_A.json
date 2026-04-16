@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-04-16T01:08:38.684Z",
+  "eleccion": "presidenciales 2026",
+  "nivel": "continente_completo",
+  "continente": {
+    "codigo": "950000",
+    "nombre": "OCEANÍA"
+  },
+  "actasactualizadas": null,
+  "candidatos": [],
+  "paises": [
+    {
+      "codigo": "950100",
+      "nombre": "AUSTRALIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "950102",
+          "nombre": "BRISBANE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "950103",
+          "nombre": "CAMBERRA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "950104",
+          "nombre": "MELBOURNE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "950106",
+          "nombre": "PERTH",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "950105",
+          "nombre": "SÍDNEY",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "950200",
+      "nombre": "NUEVA ZELANDA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "950201",
+          "nombre": "AUCKLAND",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "950202",
+          "nombre": "WELLINGTON",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    }
+  ],
+  "total": []
+}

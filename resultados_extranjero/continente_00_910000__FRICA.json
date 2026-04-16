@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-04-16T01:08:07.624Z",
+  "eleccion": "presidenciales 2026",
+  "nivel": "continente_completo",
+  "continente": {
+    "codigo": "910000",
+    "nombre": "ÁFRICA"
+  },
+  "actasactualizadas": null,
+  "candidatos": [],
+  "paises": [
+    {
+      "codigo": "910100",
+      "nombre": "ARGELIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "910101",
+          "nombre": "ARGEL",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "911200",
+      "nombre": "GHANA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "911201",
+          "nombre": "ACRA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "910400",
+      "nombre": "KENIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "910401",
+          "nombre": "NAIROBI",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "910500",
+      "nombre": "MARRUECOS",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "910502",
+          "nombre": "RABAT",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "910300",
+      "nombre": "REPÚBLICA ÁRABE DE EGIPTO",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "910302",
+          "nombre": "EL CAIRO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "910600",
+      "nombre": "SUDÁFRICA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "910603",
+          "nombre": "PRETORIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    }
+  ],
+  "total": []
+}

@@ -1,0 +1,376 @@
+{
+  "timestamp": "2026-04-16T01:08:22.422Z",
+  "eleccion": "presidenciales 2026",
+  "nivel": "continente_completo",
+  "continente": {
+    "codigo": "930000",
+    "nombre": "ASIA"
+  },
+  "actasactualizadas": null,
+  "candidatos": [],
+  "paises": [
+    {
+      "codigo": "931900",
+      "nombre": "ARABIA SAUDITA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "931904",
+          "nombre": "RIAD",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "933800",
+      "nombre": "CATAR",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "933801",
+          "nombre": "DOHA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "933700",
+      "nombre": "EMIRATOS ÁRABES UNIDOS",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "933702",
+          "nombre": "ABU DABI",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "933701",
+          "nombre": "DUBÁI",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "933200",
+      "nombre": "FILIPINAS",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "933201",
+          "nombre": "MANILA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "930400",
+      "nombre": "INDIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "930402",
+          "nombre": "NUEVA DELHI",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "931100",
+      "nombre": "INDONESIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "931101",
+          "nombre": "JAKARTA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "932400",
+      "nombre": "IRÁN",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "932401",
+          "nombre": "TEHERAN",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "930600",
+      "nombre": "ISRAEL",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "930603",
+          "nombre": "RAMLA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930602",
+          "nombre": "TEL AVIV",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "930700",
+      "nombre": "JAPÓN",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "930705",
+          "nombre": "FUKUOKA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930721",
+          "nombre": "GUNMA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930709",
+          "nombre": "HIROSHIMA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930731",
+          "nombre": "KOBE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930727",
+          "nombre": "MIE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930713",
+          "nombre": "NAGOYA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930704",
+          "nombre": "OKINAWA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930720",
+          "nombre": "SAITAMA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930736",
+          "nombre": "SHIGA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930726",
+          "nombre": "SHIZUOKA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930703",
+          "nombre": "TOKIO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "931300",
+      "nombre": "JORDANIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "931302",
+          "nombre": "AMMAN",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "932800",
+      "nombre": "KUWAIT",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "932801",
+          "nombre": "AL - KUWAIT",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "930800",
+      "nombre": "LÍBANO",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "930801",
+          "nombre": "BEIRUT",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "933000",
+      "nombre": "MALASIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "933001",
+          "nombre": "KUALA LUMPUR",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "930100",
+      "nombre": "REPUBLICA DE COREA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "930101",
+          "nombre": "SEÚL",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "930200",
+      "nombre": "REPÚBLICA POPULAR CHINA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "930201",
+          "nombre": "BEIJING (PEKIN)",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930232",
+          "nombre": "GUANGZHOU",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930226",
+          "nombre": "REGION ADMINISTRATIVA ESPECIAL HONG KONG",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "930206",
+          "nombre": "SHANGHÁI",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "932500",
+      "nombre": "SINGAPUR",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "932501",
+          "nombre": "SINGAPUR",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "931000",
+      "nombre": "TAILANDIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "931001",
+          "nombre": "BANGKOK",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "931500",
+      "nombre": "TURQUÍA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "931503",
+          "nombre": "ANKARA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "931501",
+          "nombre": "ESTAMBUL",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "932000",
+      "nombre": "VIETNAM",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "932002",
+          "nombre": "HANÓI",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    }
+  ],
+  "total": []
+}

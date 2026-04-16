@@ -249,7 +249,7 @@ function procesarContinente(cont, idx) {
       paisData.ciudades.push({
         codigo: c.codigo,
         nombre: c.nombre,
-        actasactualizadas: getActas(totalesCiudad.data),
+        actasactualizadas: (totalesCiudad && totalesCiudad.data) ? getActas(totalesCiudad.data) : null,
         candidatos: (resCiudad && resCiudad.data) ? resCiudad.data.map(transformarCandidato) : []
       });
     }

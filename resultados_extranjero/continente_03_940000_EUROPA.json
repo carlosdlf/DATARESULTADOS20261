@@ -1,0 +1,624 @@
+{
+  "timestamp": "2026-04-16T01:08:28.057Z",
+  "eleccion": "presidenciales 2026",
+  "nivel": "continente_completo",
+  "continente": {
+    "codigo": "940000",
+    "nombre": "EUROPA"
+  },
+  "actasactualizadas": null,
+  "candidatos": [],
+  "paises": [
+    {
+      "codigo": "940200",
+      "nombre": "ALEMANIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "940201",
+          "nombre": "BERLÍN",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940203",
+          "nombre": "BREMEN",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940213",
+          "nombre": "COLONIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940205",
+          "nombre": "FRANKFURT",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940206",
+          "nombre": "HAMBURGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940245",
+          "nombre": "MÚNICH",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "940300",
+      "nombre": "AUSTRIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "940302",
+          "nombre": "VIENA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "940400",
+      "nombre": "BÉLGICA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "940401",
+          "nombre": "AMBERES",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940402",
+          "nombre": "BRUSELAS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940403",
+          "nombre": "GANTE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940404",
+          "nombre": "LIEJA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "943600",
+      "nombre": "BIELORRUSIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "943601",
+          "nombre": "MINSK",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "940800",
+      "nombre": "DINAMARCA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "940801",
+          "nombre": "COPENHAGUE",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "940900",
+      "nombre": "ESPAÑA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "940935",
+          "nombre": "ALMERÍA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940902",
+          "nombre": "BARCELONA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940903",
+          "nombre": "BILBAO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940909",
+          "nombre": "LAS PALMAS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940910",
+          "nombre": "MADRID",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940911",
+          "nombre": "MÁLAGA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940913",
+          "nombre": "MALLORCA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940931",
+          "nombre": "OVIEDO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940905",
+          "nombre": "SALAMANCA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940918",
+          "nombre": "SEVILLA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940915",
+          "nombre": "TENERIFE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940920",
+          "nombre": "VALENCIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940922",
+          "nombre": "VIGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "940917",
+          "nombre": "ZARAGOZA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "941000",
+      "nombre": "FINLANDIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "941001",
+          "nombre": "HELSINKI",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "941100",
+      "nombre": "FRANCIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "941101",
+          "nombre": "BURDEOS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941103",
+          "nombre": "ESTRASBURGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941105",
+          "nombre": "LYON",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941106",
+          "nombre": "MARSELLA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941107",
+          "nombre": "NIZA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941108",
+          "nombre": "PARÍS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941110",
+          "nombre": "TOULOUSE",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "941200",
+      "nombre": "GRAN BRETAÑA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "941204",
+          "nombre": "LONDRES",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942000",
+      "nombre": "GRAN DUCADO DE LUXEMBURGO",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942001",
+          "nombre": "LUXEMBURGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "941300",
+      "nombre": "GRECIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "941301",
+          "nombre": "ATENAS",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "941400",
+      "nombre": "HOLANDA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "941401",
+          "nombre": "ÁMSTERDAM",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "941500",
+      "nombre": "HUNGRÍA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "941501",
+          "nombre": "BUDAPEST",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "941800",
+      "nombre": "IRLANDA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "941801",
+          "nombre": "DUBLÍN",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "941700",
+      "nombre": "ITALIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "941701",
+          "nombre": "BOLONIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941755",
+          "nombre": "BOLZANO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941703",
+          "nombre": "FLORENCIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941704",
+          "nombre": "GÉNOVA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941717",
+          "nombre": "MARCAS",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941706",
+          "nombre": "MILÁN",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941707",
+          "nombre": "NÁPOLES",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941748",
+          "nombre": "PERUGIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941709",
+          "nombre": "ROMA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941710",
+          "nombre": "TRIESTE",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "941711",
+          "nombre": "TURÍN",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "943700",
+      "nombre": "MACEDONIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "943701",
+          "nombre": "SKOPIE",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942100",
+      "nombre": "MALTA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942101",
+          "nombre": "LA VALETTA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942300",
+      "nombre": "NORUEGA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942302",
+          "nombre": "OSLO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942400",
+      "nombre": "POLONIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942401",
+          "nombre": "VARSOVIA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942500",
+      "nombre": "PORTUGAL",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942502",
+          "nombre": "LISBOA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "944200",
+      "nombre": "PRINCIPADO DE ANDORRA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "944202",
+          "nombre": "ANDORRA LA VELLA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "940600",
+      "nombre": "REPÚBLICA CHECA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "940601",
+          "nombre": "PRAGA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942600",
+      "nombre": "RUMANÍA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942601",
+          "nombre": "BUCAREST",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "942604",
+          "nombre": "TIMISOARA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942900",
+      "nombre": "RUSIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942901",
+          "nombre": "MOSCÚ",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "942910",
+          "nombre": "SAN PETERSBURGO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942700",
+      "nombre": "SUECIA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942701",
+          "nombre": "ESTOCOLMO",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "942703",
+          "nombre": "MALMO",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    },
+    {
+      "codigo": "942800",
+      "nombre": "SUIZA",
+      "actasactualizadas": null,
+      "candidatos": [],
+      "ciudades": [
+        {
+          "codigo": "942802",
+          "nombre": "BERNA",
+          "actasactualizadas": null,
+          "candidatos": []
+        },
+        {
+          "codigo": "942803",
+          "nombre": "GINEBRA",
+          "actasactualizadas": null,
+          "candidatos": []
+        }
+      ]
+    }
+  ],
+  "total": []
+}
